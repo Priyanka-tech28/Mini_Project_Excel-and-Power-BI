@@ -1,0 +1,501 @@
+Patient_ID,Name,Name_1,Age,Gender,Blood Type,Medical Condition,Medical Condition_2,Date of Admission,Insurance Provider,Billing Amount2,Admission Type,Length_of_Stay,Department ID,Department,Satisfaction_Rating,City,Payment_Method
+H-1001,Bobby JacksOn,Bobby Jackson,81,Female,AB-,Arthritis,Arthritis,18-11-2022,UnitedHealthcare,"? 8,351",Urgent,3,DEP105,Orthopedics,4.0,Lucknow,Insurance
+H-1002,LesLie TErRy,Leslie Terry,45,Male,O-,Diabetes,Diabetes,01-05-2024,Blue Cross,"? 20,258",Emergency,11,DEP101,Endocrinology,5.0,Hyderabad,Insurance
+H-1003,DaNnY sMitH,Danny Smith,25,Female,O+,Arthritis,Arthritis,17-02-2024,Medicare,"? 26,439",Emergency,4,DEP105,Orthopedics,3.0,Lucknow,Insurance
+H-1004,andrEw waTtS,Andrew Watts,75,Male,AB+,Asthma,Asthma,30-07-2021,Cigna,"? 3,712",Urgent,7,DEP103,Pulmonology,4.0,Pune,Credit Card
+H-1005,adrIENNE bEll,Adrienne Bell,55,Female,B+,Cancer,Cancer,25-02-2024,Blue Cross,"? 25,544",Elective,2,DEP104,Oncology,2.0,Bangalore,Insurance
+H-1006,EMILY JOHNSOn,Emily Johnson,69,Female,A+,Hypertension,Hypertension,18-01-2021,Aetna,"? 19,370",Elective,5,DEP102,Cardiology,5.0,Ahmedabad,Insurance
+H-1007,edwArD EDWaRDs,Edward Edwards,61,Male,AB-,Hypertension,Hypertension,28-02-2024,UnitedHealthcare,"? 20,113",Urgent,14,DEP102,Cardiology,4.0,Nagpur,Credit Card
+H-1008,CHrisTInA MARtinez,Christina Martinez,30,Female,AB+,Cancer,Cancer,19-04-2022,Blue Cross,"? 25,399",Elective,3,DEP104,Oncology,4.0,Delhi,Insurance
+H-1009,JASmINe aGuIlaR,Jasmine Aguilar,74,Male,A-,Hypertension,Hypertension,15-05-2020,Blue Cross,"? 17,938",Elective,4,DEP102,Cardiology,3.0,Kochi,Insurance
+H-1010,ChRISTopher BerG,Christopher Berg,27,Male,A-,Obesity,Obesity,10-04-2020,Cigna,"? 11,023",Urgent,9,DEP106,Nutrition,5.0,Lucknow,Credit Card
+H-1011,mIchElLe daniELs,Michelle Daniels,81,Male,B+,Asthma,Asthma,21-05-2020,Aetna,"? 30,215",Elective,3,DEP103,Pulmonology,4.0,Lucknow,Insurance
+H-1012,aaRon MARtiNeZ,Aaron Martinez,74,Female,A+,Obesity,Obesity,30-01-2023,UnitedHealthcare,"? 37,655",Emergency,6,DEP106,Nutrition,1.0,Lucknow,Insurance
+H-1013,connOR HANsEn,Connor Hansen,28,Female,O-,Arthritis,Arthritis,14-07-2022,Cigna,"? 16,836",Emergency,4,DEP105,Orthopedics,4.0,Kochi,Insurance
+H-1014,rObeRt bAuer,Robert Bauer,62,Male,B+,Obesity,Obesity,23-06-2021,Cigna,"? 28,280",Elective,6,DEP106,Nutrition,2.0,Chennai,Credit Card
+H-1015,bROOkE brady,Brooke Brady,71,Male,O-,Obesity,Obesity,02-09-2021,Cigna,"? 18,973",Elective,2,DEP106,Nutrition,4.0,Bangalore,Insurance
+H-1016,nAtalIE gAMble,Natalie Gamble,79,Male,B-,Cancer,Cancer,12-05-2022,Blue Cross,"? 2,388",Elective,8,DEP104,Oncology,3.0,Kolkata,Insurance
+H-1017,haley perkins,Haley Perkins,32,Male,O-,Asthma,Asthma,17-07-2021,Medicare,"? 43,781",Urgent,12,DEP103,Pulmonology,5.0,Lucknow,Credit Card
+H-1018, jamiE cAMPBELl, Jamie Campbell,52,Male,A-,Cancer,Cancer,07-03-2022,Blue Cross,"? 23,727",Emergency,3,DEP104,Oncology,4.0,Jaipur,Insurance
+H-1019,LuKE BuRgEss,Luke Burgess,73,Female,A+,Obesity,Obesity,23-10-2019,Blue Cross,"? 35,534",Emergency,5,DEP106,Nutrition,4.0,Kochi,Insurance
+H-1020,dANIEL schmIdt,Daniel Schmidt,59,Male,A-,Arthritis,Arthritis,18-01-2021,Cigna,"? 27,038",Elective,3,DEP105,Orthopedics,3.0,Nagpur,Insurance
+H-1021,tIMOTHY burNs,Timothy Burns,24,Female,B+,Diabetes,Diabetes,23-08-2022,Cigna,"? 34,329",Emergency,7,DEP101,Endocrinology,4.0,Kolkata,Credit Card
+H-1022,ChRISToPHEr BRiGhT,Christopher Bright,75,Male,AB+,Arthritis,Arthritis,04-12-2019,Blue Cross,"? 9,609",Elective,1,DEP105,Orthopedics,5.0,Pune,Insurance
+H-1023,KatHRYn StewArt,Kathryn Stewart,49,Female,A+,Arthritis,Arthritis,03-03-2024,UnitedHealthcare,"? 3,081",Emergency,5,DEP105,Orthopedics,2.0,Visakhapatnam,Insurance
+H-1024,dR. EilEEn thomPsoN,Dr. Eileen Thompson,21,Female,AB-,Cancer,Cancer,10-07-2019,Cigna,"? 44,169",Emergency,4,DEP104,Oncology,4.0,Visakhapatnam,Insurance
+H-1025,PAUl hEndERsOn,Paul Henderson,40,Female,AB+,Diabetes,Diabetes,21-08-2023,Cigna,"? 35,190",Urgent,6,DEP101,Endocrinology,5.0,Bangalore,Credit Card
+H-1026,PeTER fiTzgeRaLd,Peter Fitzgerald,79,Female,B-,Diabetes,Diabetes,23-04-2020,Blue Cross,"? 2,597",Urgent,10,DEP101,Endocrinology,3.0,Mumbai,Insurance
+H-1027,cathy sMaLl,Cathy Small,50,Female,A-,Diabetes,Diabetes,29-05-2020,UnitedHealthcare,"? 49,134",Elective,8,DEP101,Endocrinology,4.0,Delhi,Insurance
+H-1028,mr. KenNEth MoORE,Mr. Kenneth Moore,81,Female,A-,Asthma,Asthma,06-10-2020,Cigna,"? 4,845",Elective,2,DEP103,Pulmonology,4.0,Delhi,Insurance
+H-1029,MaRy hUNter,Mary Hunter,49,Female,A-,Arthritis,Arthritis,21-08-2021,Aetna,"? 27,624",Elective,3,DEP105,Orthopedics,5.0,Kochi,Insurance
+H-1030,jOSHUA OLiVer,Joshua Oliver,24,Male,A-,Obesity,Obesity,12-12-2023,Aetna,"? 34,639",Urgent,13,DEP106,Nutrition,4.0,Bangalore,Credit Card
+H-1031,ThOMAS MartInEZ,Thomas Martinez,27,Male,O-,Cancer,Cancer,09-05-2020,Medicare,"? 42,304",Urgent,4,DEP104,Oncology,3.0,Delhi,Insurance
+H-1032,JAmES pattERson,James Patterson,33,Male,AB+,Arthritis,Arthritis,21-09-2023,UnitedHealthcare,"? 32,340",Urgent,3,DEP100,General Medicine,4.0,Lucknow,Insurance
+H-1033,WilLIAM cOOPEr,William Cooper,39,Female,A-,Obesity,Obesity,11-03-2024,Blue Cross,"? 42,913",Urgent,9,DEP106,Nutrition,2.0,Nagpur,Credit Card
+H-1034,Erin oRTEga,Erin Ortega,83,Female,B+,Hypertension,Hypertension,03-04-2020,Medicare,"? 22,366",Urgent,4,DEP102,Cardiology,4.0,Mumbai,Insurance
+H-1035,NicOlE RodriGUEz,Nicole Rodriguez,45,Female,AB-,Arthritis,Arthritis,10-12-2021,Medicare,"? 12,323",Urgent,7,DEP105,Orthopedics,5.0,Mumbai,Insurance
+H-1036,DAvID AndErSON,David Anderson,63,Male,A+,Asthma,Asthma,29-05-2020,Medicare,"? 33,503",Emergency,5,DEP103,Pulmonology,4.0,Mumbai,Credit Card
+H-1037,DEnIse ToRRES,Denise Torres,81,Female,A-,Asthma,Asthma,22-06-2019,Cigna,"? 34,772",Urgent,2,DEP103,Pulmonology,3.0,Lucknow,Insurance
+H-1038,CasSAndrA Robinson,Cassandra Robinson,77,Female,AB-,Arthritis,Arthritis,22-05-2019,Medicare,"? 23,797",Urgent,7,DEP105,Orthopedics,4.0,Delhi,Insurance
+H-1039,NIcOlE LUcErO,Nicole Lucero,81,Male,O-,Hypertension,Hypertension,31-01-2023,Cigna,"? 42,587",Elective,3,DEP102,Cardiology,5.0,Nagpur,Insurance
+H-1040,PAmela fErNanDeZ,Pamela Fernandez,26,Female,AB-,Obesity,Obesity,01-06-2021,Blue Cross,"? 37,445",Elective,11,DEP106,Nutrition,3.0,Kolkata,Credit Card
+H-1041,chRiSTOPHer LEe,Christopher Lee,51,Male,B+,Hypertension,Hypertension,12-07-2020,Aetna,"? 2,810",Elective,4,DEP102,Cardiology,4.0,Lucknow,Insurance
+H-1042,ThomAS morsE,Thomas Morse,67,Female,B-,Obesity,Obesity,06-10-2019,Aetna,"? 6,094",Emergency,2,DEP106,Nutrition,4.0,Kochi,Insurance
+H-1043,Mr. eRiC Lane,Mr. Eric Lane,48,Female,B-,Cancer,Cancer,12-08-2023,Blue Cross,"? 2,020",Urgent,8,DEP104,Oncology,5.0,Chennai,Credit Card
+H-1044,KAThEriNE SmiTH,Katherine Smith,18,Female,O+,Cancer,Cancer,16-09-2021,Cigna,"? 9,034",Emergency,4,DEP104,Oncology,2.0,Kolkata,Insurance
+H-1045,pAUL wILLiAmS,Paul Williams,65,Female,B-,Cancer,Cancer,05-06-2023,Blue Cross,"? 38,220",Urgent,6,DEP104,Oncology,4.0,Lucknow,Insurance
+H-1046,lYNn MaRtinez,Lynn Martinez,75,Female,A-,Hypertension,Hypertension,19-08-2019,Medicare,"? 25,504",Elective,3,DEP102,Cardiology,4.0,Hyderabad,Insurance
+H-1047,chRIsTOpHEr CHaPmAN,Christopher Chapman,36,Female,A-,Obesity,Obesity,02-03-2023,Aetna,"? 31,141",Urgent,6,DEP106,Nutrition,3.0,Kolkata,Credit Card
+H-1048,CHRis fRYe,Chris Frye,77,Male,B-,Hypertension,Hypertension,13-06-2022,Cigna,"? 36,245",Urgent,7,DEP102,Cardiology,5.0,Jaipur,Insurance
+H-1049,kyLE bEnneTT,Kyle Bennett,20,Female,A-,Asthma,Asthma,20-06-2020,UnitedHealthcare,"? 18,891",Emergency,3,DEP103,Pulmonology,4.0,Hyderabad,Insurance
+H-1050,BRandOn coLLINS,Brandon Collins,50,Male,O-,Asthma,Asthma,05-11-2021,Aetna,"? 44,818",Urgent,12,DEP103,Pulmonology,4.0,Visakhapatnam,Credit Card
+H-1051,mIchael LiU,Michael Liu,29,Male,A-,Hypertension,Hypertension,20-03-2022,Cigna,"? 46,697",Emergency,6,DEP102,Cardiology,3.9,Nagpur,Insurance
+H-1052,STepHaNie kEnt,Stephanie Kent,71,Male,O-,Hypertension,Hypertension,24-03-2022,Blue Cross,"? 8,351",Urgent,6,DEP102,Cardiology,3.9,Lucknow,Insurance
+H-1053,JessE BaNks,Jesse Banks,59,Male,B+,Cancer,Cancer,25-03-2024,Aetna,"? 20,269",Urgent,6,DEP104,Oncology,3.9,Delhi,Insurance
+H-1054,PeGGY LEe,Peggy Lee,62,Male,B-,Hypertension,Hypertension,22-02-2020,Aetna,"? 19,598",Elective,6,DEP102,Cardiology,3.9,Visakhapatnam,Credit Card
+H-1055,TAmARa hErNAndez,Tamara Hernandez,55,Male,B-,Arthritis,Arthritis,13-12-2019,Blue Cross,"? 34,450",Elective,6,DEP100,General Medicine,3.9,Mumbai,Credit Card
+H-1056,mR. DAVID pIERce Md,Mr. David Pierce Md,42,Male,AB+,Asthma,Asthma,22-12-2019,Cigna,"? 36,891",Urgent,6,DEP103,Pulmonology,3.9,Mumbai,Insurance
+H-1057,beThaNY MoOrE,Bethany Moore,67,Female,O-,Arthritis,Arthritis,03-02-2023,Aetna,"? 27,965",Urgent,6,DEP105,Orthopedics,3.9,Kochi,Credit Card
+H-1058,MIChael MIllS,Michael Mills,18,Female,AB+,Asthma,Asthma,28-04-2024,Aetna,"? 13,463",Urgent,6,DEP103,Pulmonology,3.9,Ahmedabad,Credit Card
+H-1059,kyle Wiley,Kyle Wiley,59,Male,B+,Hypertension,Hypertension,05-05-2021,Aetna,"? 36,969",Emergency,6,DEP102,Cardiology,4.0,Kochi,Insurance
+H-1060,jACqUeLINE jORdaN,Jacqueline Jordan,62,Male,O-,Asthma,Asthma,10-02-2024,UnitedHealthcare,"? 43,883",Elective,6,DEP103,Pulmonology,4.0,Kochi,Credit Card
+H-1061,ASHleY guTIERreZ,Ashley Gutierrez,75,Male,B+,Arthritis,Arthritis,03-11-2022,UnitedHealthcare,"? 11,286",Emergency,6,DEP105,Orthopedics,4.0,Mumbai,Insurance
+H-1062,Kim ScOtt,Kim Scott,70,Female,AB+,Asthma,Asthma,27-05-2023,Cigna,"? 13,415",Elective,6,DEP103,Pulmonology,4.0,Ahmedabad,Credit Card
+H-1063,tRAvIs carTeR,Travis Carter,42,Male,O-,Arthritis,Arthritis,05-11-2023,Blue Cross,? 753,Urgent,6,DEP105,Orthopedics,4.0,Kolkata,Insurance
+H-1064,LArry rodgeRs,Larry Rodgers,67,Female,A-,Arthritis,Arthritis,05-11-2021,UnitedHealthcare,"? 1,923",Emergency,6,DEP105,Orthopedics,4.0,Bangalore,Credit Card
+H-1065,Nancy glOVeR,Nancy Glover,60,Male,AB+,Cancer,Cancer,22-08-2019,Aetna,"? 10,651",Elective,6,DEP104,Oncology,4.0,Kolkata,Credit Card
+H-1066,JessIca king,Jessica King,59,Female,B-,Hypertension,Hypertension,08-07-2020,Aetna,"? 28,904",Emergency,6,DEP102,Cardiology,4.0,Kolkata,Insurance
+H-1067,ChRiStOPhER gOnzAlez,Christopher Gonzalez,31,Female,B+,Obesity,Obesity,21-02-2022,Blue Cross,"? 36,621",Elective,6,DEP106,Nutrition,4.0,Delhi,Credit Card
+H-1068,jOhN hARTmAN,John Hartman,78,Male,A+,Diabetes,Diabetes,05-10-2020,Aetna,"? 16,267",Elective,6,DEP101,Endocrinology,4.0,Lucknow,Credit Card
+H-1069,MicHAEl MillEr,Michael Miller,37,Female,A-,Arthritis,Arthritis,10-02-2020,UnitedHealthcare,"? 4,124",Elective,6,DEP105,Orthopedics,4.0,Lucknow,Insurance
+H-1070,Erica myERS,Erica Myers,57,Male,AB-,Obesity,Obesity,09-09-2023,Aetna,"? 8,351",Urgent,6,DEP106,Nutrition,4.0,Bangalore,Credit Card
+H-1071,cAROl PaTtERSoN,Carol Patterson,45,Male,O+,Arthritis,Arthritis,22-09-2020,Medicare,"? 14,803",Elective,6,DEP105,Orthopedics,4.0,Chennai,Depit Card
+H-1072,JOSe LopEz,Jose Lopez,81,Male,O+,Asthma,Asthma,09-10-2020,Aetna,"? 23,560",Elective,6,DEP103,Pulmonology,4.0,Lucknow,Insurance
+H-1073,kEVIn SiMmoNs Jr.,Kevin Simmons Jr.,75,Female,B-,Hypertension,Hypertension,15-11-2019,Medicare,"? 18,683",Emergency,6,DEP102,Cardiology,4.0,Jaipur,Credit Card
+H-1074,DuANe HaneY,Duane Haney,81,Female,O-,Arthritis,Arthritis,01-02-2022,Cigna,"? 5,883",Urgent,6,DEP105,Orthopedics,4.0,Mumbai,Insurance
+H-1075,JONathAn yaTeS,Jonathan Yates,71,Male,O+,Obesity,Obesity,11-01-2023,UnitedHealthcare,"? 8,351",Emergency,6,DEP106,Nutrition,4.0,Jaipur,Depit Card
+H-1076,johN THoMaS,John Thomas,77,Male,AB-,Arthritis,Arthritis,18-07-2022,Medicare,"? 33,750",Emergency,6,DEP105,Orthopedics,4.0,Lucknow,Insurance
+H-1077,AdriaN BuckLEY,Adrian Buckley,40,Male,B+,Obesity,Obesity,30-01-2022,Blue Cross,"? 24,548",Urgent,6,DEP106,Nutrition,4.0,Jaipur,Insurance
+H-1078,apRil SANTIAgO,April Santiago,21,Male,O-,Hypertension,Hypertension,28-04-2023,UnitedHealthcare,? 671,Urgent,6,DEP102,Cardiology,4.0,Mumbai,Cash
+H-1079,DIane scHultz,Diane Schultz,76,Male,B+,Arthritis,Arthritis,31-12-2022,Blue Cross,"? 47,394",Emergency,6,DEP105,Orthopedics,4.1,Bangalore,Cash
+H-1080,tiMOThY myers,Timothy Myers,36,Female,B-,Diabetes,Diabetes,08-12-2023,UnitedHealthcare,"? 19,162",Urgent,6,DEP101,Endocrinology,4.1,Jaipur,Depit Card
+H-1081,NICOLE HUGhes,Nicole Hughes,57,Male,B+,Cancer,Cancer,05-08-2019,Cigna,"? 38,547",Emergency,6,DEP104,Oncology,4.1,Kolkata,Insurance
+H-1082,ChAd MorEnO,Chad Moreno,29,Female,A+,Obesity,Obesity,06-10-2022,Blue Cross,"? 2,858",Emergency,6,DEP106,Nutrition,4.1,Jaipur,Insurance
+H-1083,SeaN jenniNGs,Sean Jennings,26,Male,AB-,Hypertension,Hypertension,22-07-2021,Blue Cross,"? 48,557",Urgent,6,DEP102,Cardiology,4.1,Hyderabad,Depit Card
+H-1084,DIAnE brAnch,Diane Branch,52,Female,A-,Asthma,Asthma,24-09-2020,Aetna,"? 16,252",Elective,6,DEP103,Pulmonology,4.1,Chennai,Cash
+H-1085,cindY OROzco,Cindy Orozco,77,Female,B-,Obesity,Obesity,23-06-2020,Medicare,"? 30,145",Emergency,6,DEP106,Nutrition,4.1,Lucknow,Insurance
+H-1086,pAtriCIa MEdinA,Patricia Medina,50,Female,AB+,Asthma,Asthma,14-09-2023,Aetna,"? 14,194",Urgent,6,DEP103,Pulmonology,4.1,Jaipur,Depit Card
+H-1087,kayLa padillA,Kayla Padilla,29,Female,AB+,Arthritis,Arthritis,15-11-2019,Cigna,"? 35,649",Emergency,6,DEP105,Orthopedics,4.1,Visakhapatnam,Cash
+H-1088,JUan klEiN,Juan Klein,75,Female,O+,Hypertension,Hypertension,22-12-2022,Aetna,"? 19,363",Elective,6,DEP102,Cardiology,4.1,Mumbai,Insurance
+H-1089,wILLIAM hIlL,William Hill,78,Female,O+,Diabetes,Diabetes,19-08-2020,Cigna,"? 48,327",Emergency,6,DEP101,Endocrinology,4.1,Kochi,Insurance
+H-1090,CARL BEst,Carl Best,79,Female,A+,Hypertension,Hypertension,25-05-2020,Cigna,"? 7,511",Elective,6,DEP102,Cardiology,4.1,Jaipur,Depit Card
+H-1091,TInA GriFfin,Tina Griffin,25,Male,O-,Obesity,Obesity,10-04-2021,Medicare,"? 45,464",Emergency,6,DEP106,Nutrition,4.1,Kolkata,Cash
+H-1092,MR. TYler TAYLOR Phd,Mr. Tyler Taylor Phd,54,Male,O-,Diabetes,Diabetes,04-01-2020,Blue Cross,"? 39,867",Urgent,6,DEP101,Endocrinology,4.1,Visakhapatnam,Insurance
+H-1093,TAyLoR howeLl Dds,Taylor Howell Dds,57,Male,B+,Arthritis,Arthritis,01-08-2020,Cigna,"? 9,648",Urgent,6,DEP100,General Medicine,4.1,Nagpur,Depit Card
+H-1094,mIcHAeL MaRTIn,Michael Martin,37,Female,AB-,Arthritis,Arthritis,12-12-2019,UnitedHealthcare,"? 29,862",Emergency,6,DEP105,Orthopedics,4.1,Delhi,Gpay
+H-1095,heatHER mIller,Heather Miller,61,Female,A+,Hypertension,Hypertension,30-03-2023,Medicare,"? 39,649",Emergency,6,DEP102,Cardiology,4.1,Lucknow,Insurance
+H-1096,cathERinE gArDnEr,Catherine Gardner,66,Female,AB-,Obesity,Obesity,25-04-2022,UnitedHealthcare,"? 24,460",Emergency,6,DEP106,Nutrition,4.1,Jaipur,Gpay
+H-1097,ANNE THOMPSoN,Anne Thompson,39,Male,B-,Hypertension,Hypertension,16-06-2022,UnitedHealthcare,"? 21,182",Elective,6,DEP102,Cardiology,4.1,Mumbai,Credit Card
+H-1098,TOdd coopeR,Todd Cooper,18,Female,B-,Hypertension,Hypertension,12-07-2021,UnitedHealthcare,"? 35,957",Urgent,6,DEP102,Cardiology,4.2,Ahmedabad,Insurance
+H-1099,PhILLIP lyOnS,Phillip Lyons,46,Female,B-,Diabetes,Diabetes,12-02-2023,Cigna,"? 37,735",Emergency,6,DEP101,Endocrinology,4.2,Hyderabad,Insurance
+H-1100,MaRk foRD,Mark Ford,47,Male,AB-,Hypertension,Hypertension,16-03-2022,UnitedHealthcare,"? 4,688",Emergency,6,DEP102,Cardiology,4.2,Visakhapatnam,Credit Card
+H-1101,mARcUS ZAmorA,Marcus Zamora,70,Female,O-,Diabetes,Diabetes,05-11-2021,UnitedHealthcare,"? 2,191",Elective,6,DEP101,Endocrinology,4.2,Chennai,Insurance
+H-1102,KaTiE hENry,Katie Henry,77,Male,A-,Hypertension,Hypertension,31-01-2024,Blue Cross,"? 2,651",Emergency,6,DEP102,Cardiology,4.2,Ahmedabad,Insurance
+H-1103,wilLIAm morTON,William Morton,37,Female,A+,Arthritis,Arthritis,24-01-2024,Medicare,"? 12,372",Emergency,6,DEP105,Orthopedics,4.2,Visakhapatnam,Cash
+H-1104,KaTRina maRTin,Katrina Martin,81,Female,AB-,Obesity,Obesity,01-04-2024,Cigna,"? 10,946",Elective,6,DEP106,Nutrition,4.2,Jaipur,Credit Card
+H-1105,HunTeR mckAy,Hunter Mckay,76,Female,AB+,Obesity,Obesity,04-12-2023,Blue Cross,"? 39,962",Elective,6,DEP106,Nutrition,4.2,Kochi,Gpay
+H-1106,dWAYnE DAViS,Dwayne Davis,26,Female,B-,Obesity,Obesity,24-03-2024,Blue Cross,"? 8,217",Elective,6,DEP106,Nutrition,4.2,Bangalore,Insurance
+H-1107,sARAH CalDweLL,Sarah Caldwell,81,Female,AB-,Diabetes,Diabetes,08-04-2023,Medicare,"? 11,421",Elective,6,DEP101,Endocrinology,4.2,Pune,Credit Card
+H-1108,DAVid higgInS,David Higgins,50,Female,B-,Diabetes,Diabetes,21-07-2023,UnitedHealthcare,"? 25,615",Elective,6,DEP101,Endocrinology,4.2,Nagpur,Gpay
+H-1109,bRADlEY coMbS,Bradley Combs,80,Male,O-,Cancer,Cancer,07-01-2022,Cigna,"? 41,556",Elective,6,DEP104,Oncology,4.2,Lucknow,Insurance
+H-1110,chrisTiNa SChMitt,Christina Schmitt,37,Female,A+,Diabetes,Diabetes,02-09-2021,Blue Cross,"? 36,812",Urgent,6,DEP101,Endocrinology,4.2,Delhi,Credit Card
+H-1111,coLtoN stRONg,Colton Strong,63,Male,AB-,Obesity,Obesity,30-12-2020,Cigna,"? 47,986",Elective,6,DEP106,Nutrition,4.2,Mumbai,Insurance
+H-1112,MARK priCE,Mark Price,69,Male,AB-,Cancer,Cancer,15-08-2023,Medicare,"? 41,465",Elective,6,DEP104,Oncology,4.2,Lucknow,Gpay
+H-1113,sUZaNnE SchNeIder,Suzanne Schneider,35,Male,B+,Arthritis,Arthritis,26-11-2020,Medicare,"? 48,758",Urgent,6,DEP105,Orthopedics,4.2,Nagpur,Insurance
+H-1114,MIchaEL HUrLEY,Michael Hurley,84,Male,B-,Obesity,Obesity,06-03-2022,UnitedHealthcare,"? 14,165",Emergency,6,DEP106,Nutrition,4.2,Pune,Credit Card
+H-1115,LIndsEy laMbErt,Lindsey Lambert,61,Male,A+,Hypertension,Hypertension,28-12-2021,Cigna,"? 7,991",Emergency,6,DEP102,Cardiology,4.2,Kolkata,Gpay
+H-1116,reBEcCA PARsONs,Rebecca Parsons,76,Male,A-,Cancer,Cancer,18-12-2020,Medicare,"? 13,819",Emergency,6,DEP104,Oncology,4.2,Pune,Insurance
+H-1117,jUdy joHNsoN,Judy Johnson,39,Male,O+,Cancer,Cancer,22-12-2020,Blue Cross,"? 13,644",Elective,6,DEP104,Oncology,4.3,Mumbai,Credit Card
+H-1118,TOnyA caMpbell,Tonya Campbell,44,Female,AB+,Diabetes,Diabetes,20-04-2024,Blue Cross,"? 25,849",Urgent,6,DEP101,Endocrinology,4.3,Mumbai,Cash
+H-1119,JAMEs Ross,James Ross,64,Female,O+,Arthritis,Arthritis,02-06-2021,Blue Cross,"? 41,114",Elective,6,DEP105,Orthopedics,4.3,Hyderabad,Insurance
+H-1120,SaRA COOk,Sara Cook,84,Male,A-,Obesity,Obesity,18-09-2023,Aetna,"? 24,016",Emergency,6,DEP106,Nutrition,4.3,Mumbai,Cash
+H-1121,annE howeLl,Anne Howell,35,Male,AB-,Obesity,Obesity,02-08-2021,Aetna,"? 27,418",Urgent,6,DEP106,Nutrition,4.3,Pune,Credit Card
+H-1122,RENEE bAilEY,Renee Bailey,46,Male,B-,Asthma,Asthma,09-02-2022,Blue Cross,"? 46,468",Urgent,6,DEP103,Pulmonology,4.3,Nagpur,Insurance
+H-1123,Jeffrey tuRNER,Jeffrey Turner,79,Female,AB+,Cancer,Cancer,04-05-2022,Cigna,"? 37,914",Elective,6,DEP104,Oncology,4.3,Visakhapatnam,Cash
+H-1124,DR. LaUreN ClaRk DDs,Dr. Lauren Clark Dds,26,Male,AB-,Diabetes,Diabetes,04-07-2020,UnitedHealthcare,"? 45,151",Elective,6,DEP101,Endocrinology,4.3,Ahmedabad,Insurance
+H-1125,terRY THoMaS,Terry Thomas,42,Female,A-,Arthritis,Arthritis,30-05-2019,Cigna,"? 4,283",Urgent,6,DEP105,Orthopedics,4.3,Lucknow,Cash
+H-1126,JasOn baKEr,Jason Baker,66,Male,A-,Cancer,Cancer,10-08-2022,Cigna,"? 25,601",Emergency,6,DEP104,Oncology,4.3,Bangalore,Insurance
+H-1127,JEssicA gUtiERrEz,Jessica Gutierrez,73,Female,B+,Asthma,Asthma,10-04-2022,Blue Cross,"? 26,960",Emergency,6,DEP103,Pulmonology,4.3,Bangalore,Insurance
+H-1128,COURTNey HOdGes,Courtney Hodges,50,Female,A+,Diabetes,Diabetes,26-10-2023,Cigna,"? 9,596",Elective,6,DEP101,Endocrinology,4.3,Delhi,Cash
+H-1129,ANthONy reYEs,Anthony Reyes,49,Male,O+,Asthma,Asthma,04-05-2022,Medicare,"? 41,838",Elective,6,DEP103,Pulmonology,4.3,Kochi,Cash
+H-1130,LeaH cRoSs Dds,Leah Cross Dds,54,Female,AB-,Hypertension,Hypertension,27-06-2022,Aetna,"? 7,649",Urgent,6,DEP102,Cardiology,4.3,Bangalore,Gpay
+H-1131,PaUL MaRTinEz,Paul Martinez,78,Male,B-,Diabetes,Diabetes,23-08-2019,Cigna,"? 48,517",Emergency,6,DEP101,Endocrinology,4.3,Pune,Insurance
+H-1132,DenisE rOdRIGuEZ,Denise Rodriguez,84,Male,AB+,Obesity,Obesity,28-02-2022,Blue Cross,"? 22,928",Elective,6,DEP106,Nutrition,4.3,Jaipur,Insurance
+H-1133,ashLEy ERIcKSoN,Ashley Erickson,53,Male,B+,Arthritis,Arthritis,28-05-2021,Blue Cross,"? 29,371",Emergency,6,DEP100,General Medicine,4.3,Pune,Gpay
+H-1134,SEaN carDenaS,Sean Cardenas,22,Female,A-,Arthritis,Arthritis,14-02-2022,Cigna,"? 11,277",Elective,6,DEP105,Orthopedics,4.3,Delhi,Cash
+H-1135,aLaN AlVaREz,Alan Alvarez,75,Female,AB+,Arthritis,Arthritis,19-12-2020,Aetna,"? 20,664",Elective,6,DEP105,Orthopedics,4.3,Nagpur,Insurance
+H-1136,JeSsICA phiLliPS,Jessica Phillips,41,Male,O-,Asthma,Asthma,06-10-2023,UnitedHealthcare,"? 27,838",Urgent,6,DEP103,Pulmonology,4.3,Kochi,Gpay
+H-1137,tiMOthY CoLemaN,Timothy Coleman,37,Male,B-,Hypertension,Hypertension,06-10-2019,Medicare,"? 33,152",Emergency,6,DEP102,Cardiology,4.4,Mumbai,Cash
+H-1138,cHristina wooDS,Christina Woods,43,Male,AB-,Arthritis,Arthritis,06-01-2023,Cigna,"? 45,372",Emergency,6,DEP105,Orthopedics,4.4,Kolkata,Insurance
+H-1139,mELIssa sCOtt,Melissa Scott,30,Male,O-,Arthritis,Arthritis,24-02-2022,UnitedHealthcare,"? 25,829",Elective,6,DEP100,General Medicine,4.4,Kolkata,Insurance
+H-1140,GaRy hoPkiNS,Gary Hopkins,79,Male,AB-,Hypertension,Hypertension,27-07-2019,Medicare,"? 8,351",Elective,6,DEP102,Cardiology,4.4,Pune,Gpay
+H-1141,aPRIL VAleNCIA,April Valencia,21,Female,AB-,Arthritis,Arthritis,17-07-2022,Blue Cross,"? 31,185",Elective,6,DEP105,Orthopedics,4.4,Lucknow,Cash
+H-1142,riTA archER,Rita Archer,75,Male,A-,Obesity,Obesity,24-03-2021,Aetna,"? 50,175",Emergency,6,DEP106,Nutrition,4.4,Bangalore,Insurance
+H-1143,kIm PenA,Kim Pena,48,Female,AB+,Arthritis,Arthritis,26-08-2022,UnitedHealthcare,"? 8,771",Emergency,6,DEP100,General Medicine,4.4,Bangalore,Gpay
+H-1144,jaSoN FOlEy,Jason Foley,68,Male,A-,Arthritis,Arthritis,18-05-2019,Aetna,"? 7,354",Urgent,6,DEP100,General Medicine,4.4,Ahmedabad,Cash
+H-1145,ShAUN GuzmAn,Shaun Guzman,38,Female,O+,Diabetes,Diabetes,15-09-2019,UnitedHealthcare,"? 31,989",Urgent,6,DEP101,Endocrinology,4.4,Hyderabad,Insurance
+H-1146,MATTHeW wHite,Matthew White,54,Female,A+,Obesity,Obesity,10-07-2021,Cigna,"? 28,469",Urgent,6,DEP106,Nutrition,4.4,Kolkata,Cash
+H-1147,aLExiS wilsOn,Alexis Wilson,76,Female,B-,Cancer,Cancer,07-04-2022,UnitedHealthcare,"? 39,904",Urgent,6,DEP104,Oncology,4.4,Lucknow,Gpay
+H-1148,JaCQueLiNE maRshAll,Jacqueline Marshall,39,Female,A+,Diabetes,Diabetes,19-09-2021,UnitedHealthcare,"? 11,792",Emergency,6,DEP101,Endocrinology,4.4,Mumbai,Insurance
+H-1149,RoBErt hIGGInS,Robert Higgins,72,Female,A+,Diabetes,Diabetes,25-01-2020,Medicare,"? 5,884",Emergency,6,DEP101,Endocrinology,4.4,Mumbai,Insurance
+H-1150,SierRa MoRTON,Sierra Morton,24,Female,AB-,Arthritis,Arthritis,14-09-2020,Aetna,"? 7,825",Emergency,6,DEP105,Orthopedics,4.4,Delhi,Gpay
+H-1151,nATAliE sTANtoN,Natalie Stanton,77,Female,B-,Arthritis,Arthritis,14-03-2021,Blue Cross,"? 13,148",Emergency,6,DEP105,Orthopedics,4.4,Bangalore,Insurance
+H-1152,jEssica aceveDo,Jessica Acevedo,26,Male,AB-,Cancer,Cancer,04-08-2021,Blue Cross,"? 23,644",Urgent,6,DEP104,Oncology,4.4,Visakhapatnam,Insurance
+H-1153,JENnIfEr mCmillan,Jennifer Mcmillan,78,Male,A+,Asthma,Asthma,01-04-2024,Medicare,"? 33,539",Emergency,6,DEP103,Pulmonology,4.4,Kolkata,Cash
+H-1154,ChRISTopher mccLAiN,Christopher Mcclain,60,Male,O+,Arthritis,Arthritis,20-12-2023,Medicare,"? 8,603",Elective,6,DEP105,Orthopedics,4.4,Delhi,Gpay
+H-1155,kevIn HiCKs,Kevin Hicks,79,Female,A-,Hypertension,Hypertension,05-03-2021,Aetna,"? 28,100",Emergency,6,DEP102,Cardiology,4.4,Delhi,Cash
+H-1156,MELIndA richARds,Melinda Richards,19,Female,AB+,Cancer,Cancer,11-06-2019,Cigna,"? 50,816",Emergency,6,DEP104,Oncology,4.5,Delhi,Insurance
+H-1157,roBYn miRaNDa,Robyn Miranda,49,Female,A-,Arthritis,Arthritis,10-03-2022,Medicare,"? 32,927",Elective,6,DEP105,Orthopedics,4.5,Chennai,Gpay
+H-1158,scoTt caSTillO,Scott Castillo,83,Male,B-,Asthma,Asthma,08-11-2021,Medicare,"? 9,131",Urgent,6,DEP103,Pulmonology,4.5,Kolkata,Cash
+H-1159,jOHN GarciA,John Garcia,32,Female,O-,Arthritis,Arthritis,29-05-2022,Blue Cross,"? 8,351",Emergency,6,DEP105,Orthopedics,4.5,Bangalore,Insurance
+H-1160,miCHAeL TayloR,Michael Taylor,39,Female,A-,Diabetes,Diabetes,20-04-2023,Blue Cross,"? 18,395",Urgent,6,DEP101,Endocrinology,4.5,Kochi,Gpay
+H-1161,jeFfReY WoOd,Jeffrey Wood,19,Male,AB+,Cancer,Cancer,27-05-2019,Blue Cross,"? 26,589",Urgent,6,DEP104,Oncology,4.5,Lucknow,Insurance
+H-1162,MiCHAEl smIth,Michael Smith,33,Female,A-,Hypertension,Hypertension,14-01-2021,Medicare,"? 44,828",Urgent,6,DEP102,Cardiology,4.5,Bangalore,Cash
+H-1163,wiLLiam grIFfItH,William Griffith,82,Male,A+,Obesity,Obesity,27-11-2022,Medicare,"? 39,594",Urgent,6,DEP106,Nutrition,4.5,Bangalore,Insurance
+H-1164,CHrISTiNa lAwReNCe,Christina Lawrence,61,Female,AB-,Cancer,Cancer,29-06-2023,Blue Cross,"? 1,034",Elective,6,DEP104,Oncology,4.5,Nagpur,Gpay
+H-1165,jeSsiCA HolmeS,Jessica Holmes,41,Female,A+,Hypertension,Hypertension,25-05-2021,Blue Cross,"? 28,547",Emergency,6,DEP102,Cardiology,4.5,Mumbai,Cash
+H-1166,traCEY grEenE,Tracey Greene,36,Female,O+,Hypertension,Hypertension,25-11-2023,Aetna,"? 17,055",Elective,6,DEP102,Cardiology,4.5,Lucknow,Insurance
+H-1167,aMAnda lOpeZ,Amanda Lopez,21,Female,AB-,Asthma,Asthma,31-10-2021,Blue Cross,"? 5,006",Urgent,6,DEP103,Pulmonology,4.5,Pune,Gpay
+H-1168,LaurA pEtErS,Laura Peters,46,Female,AB-,Arthritis,Arthritis,12-11-2019,Cigna,"? 8,351",Urgent,6,DEP100,General Medicine,4.5,Mumbai,Cash
+H-1169,LAUrEn ANDErSOn,Lauren Anderson,25,Female,AB-,Arthritis,Arthritis,15-03-2022,Medicare,"? 13,855",Elective,6,DEP105,Orthopedics,4.5,Kochi,Insurance
+H-1170,wILliAm CAmpos,William Campos,52,Male,O+,Cancer,Cancer,05-05-2021,Aetna,"? 11,167",Emergency,6,DEP104,Oncology,4.5,Kochi,Cash
+H-1171,jEssiCa GoNzAleS,Jessica Gonzales,58,Female,B+,Cancer,Cancer,01-03-2022,Aetna,"? 3,783",Urgent,6,DEP104,Oncology,4.5,Jaipur,Gpay
+H-1172,brUcE gOnzaleS,Bruce Gonzales,58,Male,O-,Diabetes,Diabetes,02-12-2019,Cigna,"? 13,538",Emergency,6,DEP101,Endocrinology,4.5,Bangalore,Insurance
+H-1173,rOBert WAlsH,Robert Walsh,62,Male,A+,Arthritis,Arthritis,12-08-2021,UnitedHealthcare,"? 36,414",Emergency,6,DEP100,General Medicine,4.5,Chennai,Cash
+H-1174,lIsA LeWis,Lisa Lewis,22,Male,AB-,Cancer,Cancer,13-04-2023,Medicare,"? 9,153",Emergency,6,DEP104,Oncology,4.5,Jaipur,Insurance
+H-1175,WiLlIaM RUiZ,William Ruiz,49,Male,O+,Obesity,Obesity,21-12-2022,Aetna,"? 48,305",Emergency,6,DEP106,Nutrition,4.5,Ahmedabad,Gpay
+H-1176,StEven BALdWIn,Steven Baldwin,28,Male,B-,Obesity,Obesity,08-11-2020,UnitedHealthcare,"? 40,907",Emergency,6,DEP106,Nutrition,4.6,Jaipur,Insurance
+H-1177,meGAn CoLON,Megan Colon,81,Male,O-,Asthma,Asthma,27-08-2023,Aetna,"? 3,617",Emergency,6,DEP103,Pulmonology,4.6,Jaipur,Insurance
+H-1178,kImbErlY brOoks,Kimberly Brooks,52,Male,AB+,Obesity,Obesity,26-07-2019,UnitedHealthcare,"? 32,106",Urgent,6,DEP106,Nutrition,4.6,Delhi,Cash
+H-1179,EdWARd SMiTh jR.,Edward Smith Jr.,56,Female,O+,Asthma,Asthma,20-04-2024,Cigna,"? 41,552",Elective,6,DEP103,Pulmonology,4.6,Kolkata,Cash
+H-1180,aLliSoN CorDoVA,Allison Cordova,58,Female,B-,Cancer,Cancer,11-05-2019,Aetna,"? 23,035",Urgent,6,DEP104,Oncology,4.6,Kochi,Gpay
+H-1181,lINdA THOMAs,Linda Thomas,51,Male,AB-,Hypertension,Hypertension,24-09-2022,Blue Cross,"? 10,152",Urgent,6,DEP102,Cardiology,4.6,Bangalore,Insurance
+H-1182,paRkEr moOrE,Parker Moore,61,Male,B-,Cancer,Cancer,07-07-2021,UnitedHealthcare,"? 22,719",Emergency,6,DEP104,Oncology,4.6,Mumbai,Insurance
+H-1183,tanya SOto,Tanya Soto,58,Male,O+,Arthritis,Arthritis,17-02-2024,UnitedHealthcare,"? 44,972",Elective,6,DEP105,Orthopedics,4.6,Ahmedabad,Gpay
+H-1184,mIChaEL jOrdaN,Michael Jordan,28,Female,AB-,Obesity,Obesity,23-10-2019,Cigna,"? 13,877",Emergency,6,DEP106,Nutrition,4.6,Mumbai,Cash
+H-1185,ChRiSTINA MArTin,Christina Martin,25,Male,AB-,Hypertension,Hypertension,21-05-2019,Blue Cross,"? 46,742",Elective,6,DEP102,Cardiology,4.6,Mumbai,Insurance
+H-1186,TrACy BUrke,Tracy Burke,72,Female,O-,Obesity,Obesity,22-10-2019,Aetna,"? 14,462",Urgent,6,DEP106,Nutrition,4.6,Lucknow,Gpay
+H-1187,daVID SPeNCE,David Spence,26,Male,A-,Asthma,Asthma,21-07-2020,Aetna,"? 30,122",Elective,6,DEP103,Pulmonology,4.6,Delhi,Cash
+H-1188,JOsEph fOstER,Joseph Foster,18,Female,A-,Hypertension,Hypertension,13-03-2022,Cigna,? 145,Emergency,6,DEP102,Cardiology,4.6,Hyderabad,Insurance
+H-1189,NIcholAs haLl,Nicholas Hall,44,Female,A+,Obesity,Obesity,22-06-2020,UnitedHealthcare,"? 32,320",Elective,6,DEP106,Nutrition,4.6,Mumbai,Insurance
+H-1190,ChriSTiNA maCiAS,Christina Macias,43,Male,A+,Hypertension,Hypertension,22-12-2020,Cigna,"? 22,137",Emergency,6,DEP102,Cardiology,4.6,Bangalore,Gpay
+H-1191,scoTT JoNes,Scott Jones,20,Female,B-,Cancer,Cancer,08-11-2020,UnitedHealthcare,"? 11,035",Elective,6,DEP104,Oncology,4.6,Kolkata,Cash
+H-1192,jaMEs AnDerSon,James Anderson,24,Male,O-,Hypertension,Hypertension,01-10-2021,Aetna,"? 48,050",Emergency,6,DEP102,Cardiology,4.6,Hyderabad,Insurance
+H-1193,sHaUN LonG,Shaun Long,67,Male,B-,Obesity,Obesity,11-11-2019,Medicare,"? 5,716",Emergency,6,DEP106,Nutrition,4.6,Visakhapatnam,Gpay
+H-1194,krIStInA morA,Kristina Mora,56,Male,B+,Arthritis,Arthritis,29-02-2020,Medicare,"? 29,665",Emergency,6,DEP105,Orthopedics,4.6,Delhi,Cash
+H-1195,joshUa rIcHmOnd,Joshua Richmond,53,Female,B+,Obesity,Obesity,09-10-2020,Blue Cross,"? 39,359",Elective,6,DEP106,Nutrition,4.7,Chennai,Insurance
+H-1196,Mark lAWrencE,Mark Lawrence,32,Female,A-,Obesity,Obesity,13-03-2023,Medicare,"? 41,073",Emergency,6,DEP106,Nutrition,4.7,Hyderabad,Cash
+H-1197,JOhN eLlis,John Ellis,65,Male,A-,Arthritis,Arthritis,30-12-2020,Blue Cross,"? 1,422",Emergency,6,DEP105,Orthopedics,4.7,Ahmedabad,Gpay
+H-1198,MRs. TiFFAny DeNnIs,Mrs. Tiffany Dennis,72,Male,A-,Arthritis,Arthritis,29-10-2022,UnitedHealthcare,"? 31,300",Emergency,6,DEP105,Orthopedics,4.7,Bangalore,Insurance
+H-1199,cyNTHIa HuANG,Cynthia Huang,82,Male,O+,Hypertension,Hypertension,25-05-2020,UnitedHealthcare,"? 28,506",Urgent,6,DEP102,Cardiology,4.7,Nagpur,Insurance
+H-1200,meLiSSA LawRENcE,Melissa Lawrence,58,Male,AB+,Arthritis,Arthritis,27-05-2019,Medicare,"? 17,576",Urgent,6,DEP100,General Medicine,4.7,Kolkata,Gpay
+H-1201,STEvEn goodwIN,Steven Goodwin,81,Male,O-,Diabetes,Diabetes,01-03-2023,Medicare,"? 29,683",Elective,6,DEP101,Endocrinology,4.7,Visakhapatnam,Insurance
+H-1202,mARY HuNT,Mary Hunt,78,Female,AB-,Obesity,Obesity,22-10-2021,Aetna,"? 8,659",Emergency,6,DEP106,Nutrition,4.7,Kolkata,Insurance
+H-1203,ERic riveRa,Eric Rivera,83,Male,B+,Cancer,Cancer,17-09-2022,Blue Cross,"? 20,444",Emergency,6,DEP104,Oncology,4.7,Chennai,Cash
+H-1204,ALAn tayLor,Alan Taylor,84,Female,B+,Obesity,Obesity,09-01-2020,UnitedHealthcare,"? 20,738",Emergency,6,DEP106,Nutrition,4.7,Delhi,Gpay
+H-1205,mIcHaEL cAMPbeLl,Michael Campbell,75,Male,B-,Diabetes,Diabetes,25-08-2020,Cigna,"? 9,446",Emergency,6,DEP101,Endocrinology,4.7,Lucknow,Cash
+H-1206,asHLEY webb ddS,Ashley Webb Dds,53,Female,AB+,Asthma,Asthma,30-05-2019,Medicare,"? 35,913",Emergency,6,DEP103,Pulmonology,4.7,Bangalore,Insurance
+H-1207,SHaNNON broWn,Shannon Brown,29,Female,B+,Arthritis,Arthritis,20-07-2020,Blue Cross,"? 41,993",Elective,6,DEP105,Orthopedics,4.7,Pune,Gpay
+H-1208,LAwrenCE shEPherD,Lawrence Shepherd,70,Female,B-,Hypertension,Hypertension,26-07-2020,UnitedHealthcare,"? 44,407",Elective,6,DEP102,Cardiology,4.7,Kolkata,Cash
+H-1209,scoTt wADE,Scott Wade,55,Female,A-,Asthma,Asthma,28-03-2022,Blue Cross,"? 6,917",Urgent,6,DEP103,Pulmonology,4.7,Kochi,Insurance
+H-1210,heAthER curTis,Heather Curtis,81,Female,AB+,Hypertension,Hypertension,21-12-2019,Blue Cross,"? 18,586",Urgent,6,DEP102,Cardiology,4.7,Ahmedabad,Gpay
+H-1211,kEvIN jEFFeRsON,Kevin Jefferson,33,Female,AB-,Asthma,Asthma,21-03-2024,Blue Cross,"? 44,983",Elective,6,DEP103,Pulmonology,4.7,Kolkata,Insurance
+H-1212,dAvId gRifFIn,David Griffin,51,Female,AB+,Diabetes,Diabetes,11-12-2023,UnitedHealthcare,"? 5,428",Emergency,6,DEP101,Endocrinology,4.7,Pune,Cash
+H-1213,GRanT GeoRge,Grant George,64,Male,AB+,Arthritis,Arthritis,11-10-2019,Cigna,"? 13,143",Emergency,6,DEP105,Orthopedics,4.7,Kochi,Insurance
+H-1214,eRIc SteWART,Eric Stewart,74,Male,O+,Asthma,Asthma,24-07-2019,Cigna,"? 21,224",Elective,6,DEP103,Pulmonology,4.7,Kolkata,Gpay
+H-1215,RoBErt pittmAn,Robert Pittman,78,Male,A+,Diabetes,Diabetes,04-06-2019,Blue Cross,"? 33,599",Emergency,6,DEP101,Endocrinology,4.8,Bangalore,Cash
+H-1216,SYdNey Cross,Sydney Cross,55,Female,A-,Obesity,Obesity,30-05-2021,Aetna,"? 15,543",Urgent,6,DEP106,Nutrition,4.8,Ahmedabad,Insurance
+H-1217,DaviD CrawfoRD,David Crawford,68,Female,B-,Obesity,Obesity,24-04-2024,Aetna,"? 26,642",Emergency,6,DEP106,Nutrition,4.8,Ahmedabad,Gpay
+H-1218,LEAH DRaKE,Leah Drake,29,Female,B+,Asthma,Asthma,07-08-2023,Cigna,"? 39,764",Emergency,6,DEP103,Pulmonology,4.8,Visakhapatnam,Cash
+H-1219,DiAna hALL,Diana Hall,59,Male,A-,Arthritis,Arthritis,12-03-2022,Cigna,"? 16,118",Elective,6,DEP105,Orthopedics,4.8,Kolkata,Insurance
+H-1220,JUsTIN lE,Justin Le,39,Female,A-,Arthritis,Arthritis,30-07-2023,Aetna,"? 26,028",Emergency,6,DEP105,Orthopedics,4.8,Chennai,Cash
+H-1221,KaREn pricE dDs,Karen Price Dds,27,Female,A+,Asthma,Asthma,19-01-2024,UnitedHealthcare,"? 49,749",Emergency,6,DEP103,Pulmonology,4.8,Hyderabad,Gpay
+H-1222,CaROlYN sTEeLE,Carolyn Steele,52,Male,B-,Obesity,Obesity,13-09-2020,Cigna,"? 46,016",Emergency,6,DEP106,Nutrition,4.8,Mumbai,Insurance
+H-1223,LAURen RAMireZ,Lauren Ramirez,24,Female,AB+,Obesity,Obesity,07-07-2019,Medicare,"? 50,674",Elective,6,DEP106,Nutrition,4.8,Bangalore,Cash
+H-1224,jAcOb nEWman,Jacob Newman,75,Male,AB-,Hypertension,Hypertension,22-03-2023,Medicare,"? 8,351",Urgent,6,DEP102,Cardiology,4.8,Bangalore,Insurance
+H-1225,KAThErInE BARnEtt,Katherine Barnett,64,Female,A+,Obesity,Obesity,15-02-2022,Blue Cross,"? 16,537",Urgent,6,DEP106,Nutrition,4.8,Bangalore,Gpay
+H-1226,JODI martiNeZ,Jodi Martinez,47,Female,B-,Asthma,Asthma,24-04-2024,Blue Cross,"? 8,371",Elective,6,DEP103,Pulmonology,4.8,Jaipur,Insurance
+H-1227,andrEa aLlEN,Andrea Allen,37,Female,B-,Hypertension,Hypertension,24-09-2022,Aetna,"? 25,461",Emergency,6,DEP102,Cardiology,4.8,Ahmedabad,Insurance
+H-1228,nOah baxtEr,Noah Baxter,20,Female,AB-,Cancer,Cancer,28-11-2022,UnitedHealthcare,"? 21,439",Urgent,6,DEP104,Oncology,4.8,Kolkata,Cash
+H-1229,hECTOR MAXweLL,Hector Maxwell,21,Female,O+,Hypertension,Hypertension,11-04-2020,Cigna,"? 11,182",Emergency,6,DEP102,Cardiology,4.8,Nagpur,Cash
+H-1230,holLy WALters,Holly Walters,69,Female,AB-,Asthma,Asthma,28-01-2024,Aetna,"? 3,713",Elective,6,DEP103,Pulmonology,4.8,Pune,Gpay
+H-1231,JOsepH SmIth,Joseph Smith,67,Male,AB-,Obesity,Obesity,22-02-2024,Blue Cross,"? 37,681",Elective,6,DEP106,Nutrition,4.8,Hyderabad,Insurance
+H-1232,albERt tHOmAS,Albert Thomas,81,Female,B-,Cancer,Cancer,28-09-2022,Aetna,"? 42,572",Urgent,6,DEP104,Oncology,4.8,Jaipur,Insurance
+H-1233,jeFfErY WIlliaMSOn,Jeffery Williamson,40,Male,O-,Obesity,Obesity,16-07-2022,UnitedHealthcare,"? 14,031",Urgent,6,DEP106,Nutrition,4.8,Ahmedabad,Gpay
+H-1234,joNAthAn meADOWS,Jonathan Meadows,43,Male,O-,Cancer,Cancer,05-08-2021,Cigna,"? 8,351",Urgent,6,DEP104,Oncology,4.9,Delhi,Cash
+H-1235,kRIStIN BeNnETT,Kristin Bennett,23,Male,O-,Hypertension,Hypertension,02-05-2022,Aetna,"? 24,748",Emergency,6,DEP102,Cardiology,4.9,Pune,Insurance
+H-1236,miCHaEl SmITh,Michael Smith,70,Male,O+,Hypertension,Hypertension,10-02-2021,Blue Cross,"? 49,752",Emergency,6,DEP102,Cardiology,4.9,Hyderabad,Gpay
+H-1237,JOSepH cARpenteR,Joseph Carpenter,82,Male,O+,Cancer,Cancer,02-03-2024,Cigna,"? 12,733",Urgent,6,DEP104,Oncology,4.9,Hyderabad,Cash
+H-1238,larRy MaYEr,Larry Mayer,47,Male,B+,Cancer,Cancer,23-04-2021,UnitedHealthcare,"? 44,161",Elective,6,DEP104,Oncology,4.9,Pune,Insurance
+H-1239,CLaYTON PEterSon,Clayton Peterson,59,Male,B-,Obesity,Obesity,11-09-2019,Aetna,"? 23,190",Emergency,6,DEP106,Nutrition,4.9,Lucknow,Insurance
+H-1240,donaLD aLVArEZ,Donald Alvarez,68,Female,O-,Diabetes,Diabetes,21-11-2021,Aetna,"? 44,618",Elective,6,DEP101,Endocrinology,4.9,Delhi,Gpay
+H-1241,SaRAh leE,Sarah Lee,46,Female,O+,Asthma,Asthma,01-12-2022,Cigna,"? 18,417",Elective,6,DEP103,Pulmonology,4.9,Lucknow,Cash
+H-1242,joHN peReZ,John Perez,21,Male,AB-,Asthma,Asthma,22-02-2023,Aetna,"? 9,083",Urgent,6,DEP103,Pulmonology,4.9,Bangalore,Insurance
+H-1243,Timothy jAcobS,Timothy Jacobs,45,Male,O+,Obesity,Obesity,31-10-2022,Aetna,"? 19,667",Elective,6,DEP106,Nutrition,4.9,Nagpur,Gpay
+H-1244,nAThaN sMall,Nathan Small,35,Male,B+,Diabetes,Diabetes,07-07-2020,UnitedHealthcare,"? 18,465",Elective,6,DEP101,Endocrinology,4.9,Jaipur,Cash
+H-1245,dUSTin WriGhT,Dustin Wright,82,Female,AB-,Arthritis,Arthritis,06-03-2020,Cigna,"? 2,995",Urgent,6,DEP105,Orthopedics,4.9,Visakhapatnam,Insurance
+H-1246,jacOb wilLiAMS,Jacob Williams,64,Male,A+,Diabetes,Diabetes,03-04-2020,Blue Cross,"? 34,909",Emergency,6,DEP101,Endocrinology,4.9,Chennai,Cash
+H-1247,wiLlIAm mcCOY,William Mccoy,75,Female,O-,Arthritis,Arthritis,26-11-2019,Blue Cross,"? 11,772",Urgent,6,DEP105,Orthopedics,4.9,Pune,Gpay
+H-1248,dr. MATthEW wilkinS,Dr. Matthew Wilkins,41,Male,O+,Arthritis,Arthritis,09-03-2020,Aetna,"? 11,317",Elective,6,DEP105,Orthopedics,4.9,Nagpur,Insurance
+H-1249,JosEpH gONZaLeZ,Joseph Gonzalez,64,Female,O-,Hypertension,Hypertension,09-07-2021,Medicare,"? 13,518",Urgent,6,DEP102,Cardiology,4.9,Ahmedabad,Insurance
+H-1250,rObErt fiElDS,Robert Fields,29,Female,AB-,Cancer,Cancer,21-05-2021,UnitedHealthcare,"? 1,835",Elective,6,DEP104,Oncology,4.9,Mumbai,Gpay
+H-1251,lawrencE mIRAndA,Lawrence Miranda,51,Male,A-,Obesity,Obesity,13-04-2020,Medicare,"? 24,095",Urgent,6,DEP106,Nutrition,4.9,Bangalore,Insurance
+H-1252,mitCheLl caRrOlL,Mitchell Carroll,51,Female,B+,Hypertension,Hypertension,23-10-2022,Cigna,"? 34,018",Elective,6,DEP102,Cardiology,4.9,Lucknow,Insurance
+H-1253,COdY nIcHoLs,Cody Nichols,21,Male,A-,Obesity,Obesity,07-12-2020,Medicare,"? 6,718",Elective,6,DEP106,Nutrition,4.9,Bangalore,Cash
+H-1254,KELlI tHompSOn,Kelli Thompson,69,Male,O-,Arthritis,Arthritis,11-07-2019,Blue Cross,"? 47,401",Elective,6,DEP105,Orthopedics,5.0,Bangalore,Gpay
+H-1255,dAnIElle lOPeZ,Danielle Lopez,69,Male,B+,Hypertension,Hypertension,02-06-2021,Cigna,"? 39,519",Emergency,6,DEP102,Cardiology,5.0,Bangalore,Cash
+H-1256,melINda JONES,Melinda Jones,24,Female,O-,Asthma,Asthma,12-03-2020,Blue Cross,"? 48,364",Emergency,6,DEP103,Pulmonology,5.0,Mumbai,Insurance
+H-1257,KRiSTIN sMith,Kristin Smith,71,Female,O-,Arthritis,Arthritis,12-02-2022,Cigna,"? 12,069",Emergency,6,DEP105,Orthopedics,5.0,Bangalore,Gpay
+H-1258,StEphaniE REYNolDs,Stephanie Reynolds,58,Male,O-,Arthritis,Arthritis,10-10-2023,UnitedHealthcare,"? 15,301",Urgent,6,DEP105,Orthopedics,5.0,Visakhapatnam,Cash
+H-1259,AnNA NORMaN,Anna Norman,64,Male,AB+,Cancer,Cancer,19-12-2019,Cigna,"? 36,523",Urgent,6,DEP104,Oncology,5.0,Kolkata,Insurance
+H-1260,MAria haYeS,Maria Hayes,50,Male,A-,Arthritis,Arthritis,14-03-2024,Cigna,"? 27,857",Emergency,6,DEP105,Orthopedics,5.0,Visakhapatnam,Gpay
+H-1261,toNya riLEy mD,Tonya Riley Md,69,Male,O+,Arthritis,Arthritis,16-08-2019,Aetna,"? 6,683",Urgent,6,DEP105,Orthopedics,5.0,Mumbai,Insurance
+H-1262,REgiNa DUnn,Regina Dunn,30,Male,B-,Cancer,Cancer,14-03-2023,Blue Cross,"? 25,416",Elective,6,DEP104,Oncology,5.0,Delhi,Cash
+H-1263,mIcHael JACoBS,Michael Jacobs,49,Female,AB+,Cancer,Cancer,23-06-2023,UnitedHealthcare,"? 28,957",Emergency,6,DEP104,Oncology,5.0,Kochi,Insurance
+H-1264,jaSon mOOrE md,Jason Moore Md,27,Male,AB-,Cancer,Cancer,20-12-2022,Cigna,"? 34,791",Elective,6,DEP104,Oncology,5.0,Visakhapatnam,Gpay
+H-1265,eRiC HALl,Eric Hall,57,Female,O+,Cancer,Cancer,13-11-2020,Cigna,"? 31,482",Emergency,6,DEP104,Oncology,5.0,Mumbai,Cash
+H-1266,MALIk MARtINeZ,Malik Martinez,37,Male,O+,Obesity,Obesity,25-12-2019,Medicare,"? 14,877",Emergency,6,DEP106,Nutrition,5.0,Bangalore,Insurance
+H-1267,LisA KENNEdY,Lisa Kennedy,56,Female,O-,Asthma,Asthma,07-06-2020,Medicare,"? 26,571",Urgent,6,DEP103,Pulmonology,5.0,Kochi,Gpay
+H-1268,kRIstIn ocHOA,Kristin Ochoa,49,Female,O-,Asthma,Asthma,26-05-2021,Aetna,"? 11,191",Emergency,6,DEP103,Pulmonology,5.0,Mumbai,Cash
+H-1269,joSeph ZuNiGA,Joseph Zuniga,38,Female,A+,Diabetes,Diabetes,10-01-2024,Cigna,"? 19,417",Urgent,6,DEP101,Endocrinology,5.0,Jaipur,Insurance
+H-1270,kYLe TYlER,Kyle Tyler,74,Female,AB-,Cancer,Cancer,20-02-2020,Cigna,"? 23,302",Emergency,6,DEP104,Oncology,5.0,Delhi,Cash
+H-1271,eric duNCan,Eric Duncan,33,Female,A-,Diabetes,Diabetes,22-04-2020,Cigna,"? 7,476",Emergency,6,DEP101,Endocrinology,5.0,Lucknow,Gpay
+H-1272,raChel roMERo,Rachel Romero,35,Female,O-,Asthma,Asthma,27-08-2023,Blue Cross,"? 48,601",Urgent,6,DEP103,Pulmonology,5.0,Jaipur,Insurance
+H-1273,mIcHael anDeRson,Michael Anderson,66,Female,A-,Diabetes,Diabetes,31-07-2019,Aetna,"? 8,351",Emergency,6,DEP101,Endocrinology,5.1,Mumbai,Cash
+H-1274,emILY clARK,Emily Clark,47,Male,O-,Obesity,Obesity,31-10-2021,Aetna,"? 27,960",Urgent,6,DEP106,Nutrition,5.1,Kochi,Insurance
+H-1275,danIeL mCKINnEy,Daniel Mckinney,53,Male,B-,Cancer,Cancer,22-01-2020,Blue Cross,"? 45,604",Urgent,6,DEP104,Oncology,5.1,Kolkata,Gpay
+H-1276,BOnnIe WILlIaMS,Bonnie Williams,58,Male,A+,Asthma,Asthma,01-08-2023,Cigna,"? 36,515",Elective,6,DEP103,Pulmonology,5.1,Chennai,Insurance
+H-1277,MARcUs henry,Marcus Henry,70,Female,B+,Arthritis,Arthritis,12-10-2020,Blue Cross,"? 34,920",Urgent,6,DEP100,General Medicine,5.1,Kochi,Insurance
+H-1278,katheRiNE HART,Katherine Hart,58,Female,A-,Asthma,Asthma,22-09-2020,UnitedHealthcare,"? 13,916",Elective,6,DEP103,Pulmonology,5.1,Hyderabad,Cash
+H-1279,MIchelle pIeRCE,Michelle Pierce,66,Female,A-,Hypertension,Hypertension,18-02-2020,Cigna,"? 44,334",Urgent,6,DEP102,Cardiology,5.1,Bangalore,Cash
+H-1280,Julie Mejia,Julie Mejia,72,Male,A+,Cancer,Cancer,15-01-2021,Blue Cross,"? 14,860",Elective,6,DEP104,Oncology,5.1,Delhi,Gpay
+H-1281,cAMeRoN sAnChEz,Cameron Sanchez,80,Female,AB-,Obesity,Obesity,17-06-2019,Medicare,"? 48,994",Urgent,6,DEP106,Nutrition,5.1,Ahmedabad,Insurance
+H-1282,davId Vincent,David Vincent,26,Female,B+,Obesity,Obesity,29-11-2023,Blue Cross,"? 12,389",Elective,6,DEP106,Nutrition,5.1,Nagpur,Insurance
+H-1283,MeLiSSA gOMez,Melissa Gomez,83,Male,B-,Diabetes,Diabetes,05-06-2021,UnitedHealthcare,"? 12,264",Emergency,6,DEP101,Endocrinology,5.1,Visakhapatnam,Gpay
+H-1284,AMAnDa pONCe,Amanda Ponce,49,Female,AB-,Diabetes,Diabetes,24-08-2021,Medicare,"? 23,138",Elective,6,DEP101,Endocrinology,5.1,Kochi,Cash
+H-1285,CArOl GOMEz,Carol Gomez,55,Male,AB-,Asthma,Asthma,01-11-2020,UnitedHealthcare,"? 39,483",Urgent,6,DEP103,Pulmonology,5.1,Chennai,Insurance
+H-1286,cHRISTopHEr PalmER,Christopher Palmer,42,Female,B-,Arthritis,Arthritis,22-08-2020,Cigna,"? 3,967",Urgent,6,DEP100,General Medicine,5.1,Kochi,Gpay
+H-1287,PAUL Hahn,Paul Hahn,39,Female,A-,Cancer,Cancer,15-05-2022,Cigna,"? 18,987",Urgent,6,DEP104,Oncology,5.1,Pune,Cash
+H-1288,aSHLeY MOORe,Ashley Moore,77,Female,AB+,Diabetes,Diabetes,10-01-2020,Medicare,"? 38,252",Emergency,6,DEP101,Endocrinology,5.1,Bangalore,Insurance
+H-1289,lINDa haMiLTOn,Linda Hamilton,84,Female,O-,Cancer,Cancer,28-10-2019,Aetna,"? 40,702",Emergency,6,DEP104,Oncology,5.1,Chennai,Insurance
+H-1290,robiN coX,Robin Cox,82,Female,A-,Asthma,Asthma,01-08-2022,Blue Cross,"? 27,789",Elective,6,DEP103,Pulmonology,5.1,Chennai,Gpay
+H-1291,AnthoNY HalL,Anthony Hall,67,Female,A+,Cancer,Cancer,28-09-2019,Cigna,"? 2,627",Urgent,6,DEP104,Oncology,5.1,Hyderabad,Cash
+H-1292,roberT smitH,Robert Smith,41,Male,AB-,Asthma,Asthma,30-11-2022,Aetna,"? 22,405",Elective,6,DEP103,Pulmonology,5.1,Chennai,Insurance
+H-1293,dEREK CARTER,Derek Carter,78,Female,B-,Diabetes,Diabetes,24-05-2023,Aetna,"? 19,149",Emergency,6,DEP101,Endocrinology,5.2,Bangalore,Gpay
+H-1294,HEAthER MAY,Heather May,20,Male,O-,Asthma,Asthma,15-06-2021,Cigna,"? 29,684",Emergency,6,DEP103,Pulmonology,5.2,Delhi,Cash
+H-1295,pETer gOnzAlEZ,Peter Gonzalez,63,Male,B+,Obesity,Obesity,04-11-2022,Blue Cross,"? 11,682",Urgent,6,DEP106,Nutrition,5.2,Chennai,Insurance
+H-1296,chrIs flEtCheR,Chris Fletcher,38,Male,B-,Arthritis,Arthritis,11-10-2019,UnitedHealthcare,"? 39,432",Emergency,6,DEP105,Orthopedics,5.2,Mumbai,Cash
+H-1297,sHIRley wiLkinsoN,Shirley Wilkinson,81,Male,O+,Obesity,Obesity,22-06-2021,Blue Cross,"? 42,944",Urgent,6,DEP106,Nutrition,5.2,Nagpur,Gpay
+H-1298,COurtNey FaRRelL,Courtney Farrell,63,Male,A-,Obesity,Obesity,25-07-2022,Medicare,"? 17,160",Emergency,6,DEP106,Nutrition,5.2,Pune,Insurance
+H-1299,aNDReA WiLliS,Andrea Willis,48,Male,AB-,Hypertension,Hypertension,28-08-2022,Aetna,"? 39,907",Urgent,6,DEP102,Cardiology,5.2,Visakhapatnam,Insurance
+H-1300,cHAD huFF,Chad Huff,22,Male,O-,Asthma,Asthma,04-05-2022,Aetna,"? 25,298",Emergency,6,DEP103,Pulmonology,5.2,Lucknow,Gpay
+H-1301,dEvin giLBert,Devin Gilbert,48,Female,AB+,Cancer,Cancer,14-11-2019,Blue Cross,"? 15,111",Elective,6,DEP104,Oncology,5.2,Mumbai,Insurance
+H-1302,DOnALD davIS,Donald Davis,67,Female,O+,Hypertension,Hypertension,05-08-2020,UnitedHealthcare,"? 50,506",Elective,6,DEP102,Cardiology,5.2,Chennai,Insurance
+H-1303,KUrT murphy,Kurt Murphy,26,Male,O+,Cancer,Cancer,21-07-2019,Medicare,"? 40,190",Elective,6,DEP104,Oncology,5.2,Delhi,Cash
+H-1304,SYlvia wEsT,Sylvia West,79,Male,B-,Arthritis,Arthritis,05-07-2019,Medicare,"? 34,516",Emergency,6,DEP105,Orthopedics,5.2,Mumbai,Gpay
+H-1305,DONaLd vAZQuEZ,Donald Vazquez,70,Male,AB+,Arthritis,Arthritis,05-12-2022,UnitedHealthcare,"? 41,551",Elective,6,DEP105,Orthopedics,5.2,Bangalore,Cash
+H-1306,REbeCCA rUsH,Rebecca Rush,39,Female,O+,Arthritis,Arthritis,31-03-2021,Medicare,"? 23,518",Elective,6,DEP105,Orthopedics,5.2,Jaipur,Insurance
+H-1307,ChrIstoPhER curRY,Christopher Curry,45,Male,O-,Diabetes,Diabetes,31-03-2020,UnitedHealthcare,"? 4,498",Emergency,6,DEP101,Endocrinology,5.2,Nagpur,Gpay
+H-1308,miCHaeL EdwARds,Michael Edwards,76,Female,A+,Cancer,Cancer,28-03-2020,Aetna,"? 31,193",Emergency,6,DEP104,Oncology,5.2,Nagpur,Cash
+H-1309,cHriSTOPheR ARnoLd,Christopher Arnold,35,Male,O-,Obesity,Obesity,16-09-2019,Medicare,"? 23,953",Elective,6,DEP106,Nutrition,5.2,Bangalore,Insurance
+H-1310,RAcheL hickmAn,Rachel Hickman,37,Female,B-,Asthma,Asthma,07-04-2023,Medicare,"? 36,634",Elective,6,DEP103,Pulmonology,5.2,Nagpur,Gpay
+H-1311,ashlEY grAy,Ashley Gray,22,Female,B+,Arthritis,Arthritis,27-11-2023,UnitedHealthcare,"? 27,263",Emergency,6,DEP105,Orthopedics,5.2,Hyderabad,Insurance
+H-1312,eLiZaBeTh PeREz,Elizabeth Perez,39,Male,AB+,Arthritis,Arthritis,15-03-2021,Cigna,"? 50,346",Elective,6,DEP100,General Medicine,5.3,Mumbai,Cash
+H-1313,ANgeL RaNDOlPH ddS,Angel Randolph Dds,43,Female,A-,Hypertension,Hypertension,22-02-2021,Blue Cross,"? 46,411",Urgent,6,DEP102,Cardiology,5.3,Visakhapatnam,Insurance
+H-1314,maRk SaUNderS,Mark Saunders,41,Male,AB-,Asthma,Asthma,22-03-2021,Cigna,"? 44,899",Elective,6,DEP103,Pulmonology,5.3,Chennai,Gpay
+H-1315,ChriSTiAn lAnG,Christian Lang,39,Male,B-,Arthritis,Arthritis,24-07-2023,Medicare,"? 39,315",Urgent,6,DEP105,Orthopedics,5.3,Hyderabad,Cash
+H-1316,Pam perKIns,Pam Perkins,60,Male,AB-,Asthma,Asthma,19-07-2020,Blue Cross,"? 36,277",Elective,6,DEP103,Pulmonology,5.3,Pune,Insurance
+H-1317,kAyLA GrEENe,Kayla Greene,50,Female,B+,Cancer,Cancer,23-01-2022,UnitedHealthcare,"? 11,069",Emergency,6,DEP104,Oncology,5.3,Mumbai,Gpay
+H-1318,mIcHAEl daVId,Michael David,24,Female,AB+,Diabetes,Diabetes,02-12-2023,UnitedHealthcare,"? 20,049",Elective,6,DEP101,Endocrinology,5.3,Visakhapatnam,Cash
+H-1319,aLeXIs mCcALl,Alexis Mccall,31,Male,O-,Asthma,Asthma,30-09-2019,Cigna,"? 29,545",Elective,6,DEP103,Pulmonology,5.3,Nagpur,Insurance
+H-1320,mr. brandON perEz md,Mr. Brandon Perez Md,73,Male,AB-,Cancer,Cancer,27-02-2020,Blue Cross,"? 29,724",Emergency,6,DEP104,Oncology,5.3,Chennai,Cash
+H-1321,dr. jeffREy ColE,Dr. Jeffrey Cole,43,Male,B+,Obesity,Obesity,08-11-2022,Medicare,"? 30,218",Emergency,6,DEP106,Nutrition,5.3,Pune,Gpay
+H-1322,maTthEw broWN,Matthew Brown,78,Male,A-,Obesity,Obesity,05-11-2023,Aetna,"? 39,410",Elective,6,DEP106,Nutrition,5.3,Jaipur,Insurance
+H-1323,RoBErT sExtON,Robert Sexton,48,Male,O-,Arthritis,Arthritis,26-10-2020,UnitedHealthcare,"? 23,475",Elective,6,DEP105,Orthopedics,5.3,Mumbai,Cash
+H-1324,ashLEy vasQUEZ,Ashley Vasquez,73,Female,AB+,Hypertension,Hypertension,02-03-2023,Cigna,"? 21,989",Emergency,6,DEP102,Cardiology,5.3,Chennai,Insurance
+H-1325,mIcHelLe FLYnn,Michelle Flynn,41,Male,A+,Cancer,Cancer,01-12-2020,Cigna,"? 40,643",Urgent,6,DEP104,Oncology,5.3,Lucknow,Gpay
+H-1326,StEVEn trAn,Steven Tran,51,Female,AB+,Cancer,Cancer,22-12-2020,UnitedHealthcare,"? 2,576",Elective,6,DEP104,Oncology,5.3,Bangalore,Insurance
+H-1327,JAMeS MilLeR,James Miller,81,Male,A+,Arthritis,Arthritis,24-02-2023,UnitedHealthcare,"? 5,600",Emergency,6,DEP105,Orthopedics,5.3,Kochi,Insurance
+H-1328,Bonnie hiLl,Bonnie Hill,63,Female,AB+,Cancer,Cancer,28-01-2020,UnitedHealthcare,"? 40,450",Emergency,6,DEP104,Oncology,5.3,Mumbai,Cash
+H-1329,AnTHONy DaviS,Anthony Davis,27,Female,AB-,Cancer,Cancer,05-10-2021,UnitedHealthcare,"? 18,349",Urgent,6,DEP104,Oncology,5.3,Mumbai,Cash
+H-1330,DaViD ShEPPArD,David Sheppard,33,Female,A+,Cancer,Cancer,03-11-2023,Aetna,"? 11,979",Urgent,6,DEP104,Oncology,5.3,Chennai,Gpay
+H-1331,JOdi LAnG,Jodi Lang,35,Female,O+,Arthritis,Arthritis,30-08-2021,Aetna,"? 5,964",Elective,6,DEP105,Orthopedics,5.3,Visakhapatnam,Insurance
+H-1332,VaNeSSa TAylor,Vanessa Taylor,57,Female,A-,Diabetes,Diabetes,23-09-2019,UnitedHealthcare,"? 34,223",Urgent,6,DEP101,Endocrinology,5.4,Chennai,Insurance
+H-1333,WAYnE lyncH,Wayne Lynch,19,Female,AB+,Diabetes,Diabetes,09-02-2022,UnitedHealthcare,"? 19,343",Urgent,6,DEP101,Endocrinology,5.4,Mumbai,Gpay
+H-1334,YEsENiA MCfarland,Yesenia Mcfarland,52,Female,AB-,Hypertension,Hypertension,06-07-2019,Aetna,"? 25,120",Urgent,6,DEP102,Cardiology,5.4,Mumbai,Cash
+H-1335,KEnNETH WilSON,Kenneth Wilson,27,Male,AB+,Cancer,Cancer,17-12-2019,UnitedHealthcare,"? 41,286",Elective,6,DEP104,Oncology,5.4,Kolkata,Insurance
+H-1336,JIlLiAn MArks,Jillian Marks,53,Male,B-,Cancer,Cancer,28-12-2020,Aetna,"? 28,412",Elective,6,DEP104,Oncology,5.4,Visakhapatnam,Gpay
+H-1337,MiCHELLe cruz ddS,Michelle Cruz Dds,34,Male,O+,Arthritis,Arthritis,09-06-2021,Aetna,"? 10,564",Urgent,6,DEP105,Orthopedics,5.4,Delhi,Cash
+H-1338,CLaREnce fORD jr.,Clarence Ford Jr.,53,Female,AB-,Hypertension,Hypertension,22-05-2023,UnitedHealthcare,"? 28,152",Emergency,6,DEP102,Cardiology,5.4,Kochi,Insurance
+H-1339,DonAlD kaNe,Donald Kane,75,Female,B-,Arthritis,Arthritis,26-08-2021,Medicare,"? 42,688",Urgent,6,DEP105,Orthopedics,5.4,Pune,Insurance
+H-1340,ZaChaRY LARsEN,Zachary Larsen,82,Female,O-,Arthritis,Arthritis,18-05-2023,Medicare,"? 47,798",Elective,6,DEP105,Orthopedics,5.4,Chennai,Gpay
+H-1341,sHeRYl MaRTinez,Sheryl Martinez,70,Male,AB-,Arthritis,Arthritis,15-03-2022,Cigna,"? 21,614",Urgent,6,DEP105,Orthopedics,5.4,Chennai,Cash
+H-1342,mr. NaTHAN avILA,Mr. Nathan Avila,81,Female,AB-,Asthma,Asthma,07-06-2019,Medicare,"? 27,125",Urgent,6,DEP103,Pulmonology,5.4,Nagpur,Insurance
+H-1343,aNnE aNTHONY,Anne Anthony,54,Female,AB-,Obesity,Obesity,04-06-2023,Medicare,"? 9,992",Elective,6,DEP106,Nutrition,5.4,Bangalore,Gpay
+H-1344,hOlly LaMBERt,Holly Lambert,51,Male,O+,Arthritis,Arthritis,11-08-2023,Cigna,"? 21,535",Emergency,6,DEP105,Orthopedics,5.4,Delhi,Cash
+H-1345,JAmes rASmuSsen,James Rasmussen,22,Female,O-,Cancer,Cancer,28-10-2020,Blue Cross,"? 9,056",Elective,6,DEP104,Oncology,5.4,Delhi,Insurance
+H-1346,SaRAH cannON,Sarah Cannon,64,Male,A+,Diabetes,Diabetes,27-12-2020,Medicare,"? 27,256",Emergency,6,DEP101,Endocrinology,5.4,Visakhapatnam,Cash
+H-1347,melInda tannER,Melinda Tanner,33,Female,O+,Cancer,Cancer,04-04-2020,Medicare,"? 16,883",Elective,6,DEP104,Oncology,5.4,Lucknow,Gpay
+H-1348,LauriE josEPh,Laurie Joseph,36,Female,AB-,Cancer,Cancer,21-02-2023,Aetna,"? 39,659",Emergency,6,DEP104,Oncology,5.4,Kochi,Insurance
+H-1349,stEPHAnIe hUnteR,Stephanie Hunter,67,Female,AB+,Hypertension,Hypertension,16-10-2020,Medicare,"? 10,074",Emergency,6,DEP102,Cardiology,5.4,Lucknow,Insurance
+H-1350,gIna daviS,Gina Davis,85,Female,B-,Obesity,Obesity,04-03-2023,UnitedHealthcare,"? 33,123",Urgent,6,DEP106,Nutrition,5.4,Ahmedabad,Gpay
+H-1351,chRiStoPheR sHEA Jr.,Christopher Shea Jr.,39,Female,O-,Obesity,Obesity,03-11-2023,Blue Cross,"? 41,546",Urgent,6,DEP106,Nutrition,5.5,Bangalore,Insurance
+H-1352,MrS. SabRIna BaLL,Mrs. Sabrina Ball,70,Female,O-,Asthma,Asthma,13-10-2020,Medicare,"? 18,301",Emergency,6,DEP103,Pulmonology,5.5,Visakhapatnam,Insurance
+H-1353,JoyCe McCoRmIcK,Joyce Mccormick,18,Male,A+,Arthritis,Arthritis,11-03-2020,Medicare,"? 2,200",Emergency,6,DEP105,Orthopedics,5.5,Hyderabad,Cash
+H-1354,DEVIN bElL,Devin Bell,41,Female,AB+,Hypertension,Hypertension,10-03-2021,Aetna,"? 45,221",Elective,6,DEP102,Cardiology,5.5,Pune,Gpay
+H-1355,alLISoN rAmiREZ,Allison Ramirez,25,Male,B+,Cancer,Cancer,11-07-2019,Blue Cross,"? 9,983",Elective,6,DEP104,Oncology,5.5,Bangalore,Cash
+H-1356,lauRA roMERO,Laura Romero,73,Male,A-,Asthma,Asthma,19-10-2023,UnitedHealthcare,"? 29,892",Urgent,6,DEP103,Pulmonology,5.5,Bangalore,Insurance
+H-1357,TONi fAULKNer,Toni Faulkner,54,Male,O+,Cancer,Cancer,28-02-2023,Cigna,"? 27,753",Urgent,6,DEP104,Oncology,5.5,Kochi,Gpay
+H-1358,patrIcia tuRnEr,Patricia Turner,51,Male,O-,Asthma,Asthma,06-04-2023,Aetna,"? 3,469",Elective,6,DEP103,Pulmonology,5.5,Bangalore,Cash
+H-1359,naThaN rAy,Nathan Ray,73,Male,A+,Obesity,Obesity,14-11-2022,Aetna,"? 43,938",Elective,6,DEP106,Nutrition,5.5,Kochi,Insurance
+H-1360,RYan sAnCHeZ,Ryan Sanchez,67,Male,O+,Cancer,Cancer,07-03-2021,Blue Cross,"? 15,878",Urgent,6,DEP104,Oncology,5.5,Mumbai,Gpay
+H-1361,tHOMas DENnIs,Thomas Dennis,33,Male,O-,Diabetes,Diabetes,23-06-2022,Cigna,"? 18,471",Urgent,6,DEP101,Endocrinology,5.5,Hyderabad,Insurance
+H-1362,mR. timOtHY FLoRES,Mr. Timothy Flores,77,Female,O-,Asthma,Asthma,09-10-2021,Cigna,"? 42,257",Urgent,6,DEP103,Pulmonology,5.5,Delhi,Cash
+H-1363,WeNDy lEVIne,Wendy Levine,40,Female,AB-,Asthma,Asthma,24-10-2019,Cigna,"? 10,992",Elective,6,DEP103,Pulmonology,5.5,Kolkata,Insurance
+H-1364,nicOLe gOnzAleZ,Nicole Gonzalez,42,Male,AB+,Arthritis,Arthritis,29-04-2024,Medicare,"? 20,116",Emergency,6,DEP105,Orthopedics,5.5,Visakhapatnam,Gpay
+H-1365,miCHaeL eLlIsoN,Michael Ellison,48,Male,AB-,Asthma,Asthma,26-02-2024,Aetna,"? 21,100",Elective,6,DEP103,Pulmonology,5.5,Kolkata,Cash
+H-1366,BRAndON dAVIS,Brandon Davis,33,Male,B+,Arthritis,Arthritis,29-11-2022,Blue Cross,"? 41,761",Urgent,6,DEP105,Orthopedics,5.5,Visakhapatnam,Insurance
+H-1367,vaNESsa GArCia,Vanessa Garcia,68,Female,O+,Arthritis,Arthritis,10-04-2022,UnitedHealthcare,"? 31,958",Elective,6,DEP105,Orthopedics,5.5,Visakhapatnam,Gpay
+H-1368,AUtUmn PEck,Autumn Peck,78,Male,O-,Asthma,Asthma,06-01-2024,Aetna,"? 14,687",Elective,6,DEP103,Pulmonology,5.5,Pune,Cash
+H-1369,NAthAnIEL REynoLdS,Nathaniel Reynolds,24,Female,B-,Hypertension,Hypertension,28-03-2024,Medicare,"? 16,657",Urgent,6,DEP102,Cardiology,5.5,Kochi,Insurance
+H-1370,JOYCE MoOdY,Joyce Moody,65,Male,AB+,Asthma,Asthma,28-04-2022,UnitedHealthcare,"? 35,777",Elective,6,DEP103,Pulmonology,5.6,Kolkata,Cash
+H-1371,MaRK FuEnTes,Mark Fuentes,58,Female,O+,Obesity,Obesity,14-06-2020,Aetna,"? 8,533",Emergency,6,DEP106,Nutrition,5.6,Chennai,Gpay
+H-1372,brETT FerGusoN,Brett Ferguson,45,Female,B-,Asthma,Asthma,03-06-2020,Blue Cross,"? 38,793",Urgent,6,DEP103,Pulmonology,5.6,Lucknow,Insurance
+H-1373,TravIS SiMMOnS,Travis Simmons,75,Male,AB+,Arthritis,Arthritis,11-10-2019,Cigna,"? 38,248",Elective,6,DEP100,General Medicine,5.6,Delhi,Cash
+H-1374,jEremY fRye,Jeremy Frye,63,Female,O+,Diabetes,Diabetes,13-11-2019,Medicare,"? 40,217",Elective,6,DEP101,Endocrinology,5.6,Lucknow,Insurance
+H-1375,cAmerOn MilLER,Cameron Miller,63,Male,AB-,Hypertension,Hypertension,14-10-2023,UnitedHealthcare,"? 18,636",Urgent,6,DEP102,Cardiology,5.6,Mumbai,Gpay
+H-1376,wilLIAM wiLliams dDS,William Williams Dds,28,Male,B+,Asthma,Asthma,14-02-2020,Cigna,"? 46,080",Urgent,6,DEP103,Pulmonology,5.6,Mumbai,Insurance
+H-1377,tRACIe WrigHt,Tracie Wright,85,Male,A-,Diabetes,Diabetes,06-11-2023,Blue Cross,"? 39,828",Emergency,6,DEP101,Endocrinology,5.6,Chennai,Insurance
+H-1378,DaVid reyEs,David Reyes,81,Female,O-,Asthma,Asthma,20-12-2019,Aetna,"? 35,255",Elective,6,DEP103,Pulmonology,5.6,Nagpur,Cash
+H-1379,pAiGE KIng,Paige King,71,Female,AB+,Hypertension,Hypertension,18-09-2020,Aetna,"? 47,260",Urgent,6,DEP102,Cardiology,5.6,Mumbai,Cash
+H-1380,James gArCIA,James Garcia,54,Male,O-,Diabetes,Diabetes,19-09-2023,Cigna,"? 25,068",Emergency,6,DEP101,Endocrinology,5.6,Kochi,Gpay
+H-1381,lOri hArvEY,Lori Harvey,25,Male,A-,Asthma,Asthma,14-06-2023,Medicare,"? 23,474",Urgent,6,DEP103,Pulmonology,5.6,Visakhapatnam,Insurance
+H-1382,amy wANG,Amy Wang,43,Male,A-,Cancer,Cancer,30-03-2024,Aetna,"? 27,867",Emergency,6,DEP104,Oncology,5.6,Chennai,Insurance
+H-1383,joRDAn vARgaS,Jordan Vargas,62,Male,A-,Obesity,Obesity,26-01-2022,Aetna,"? 30,152",Emergency,6,DEP106,Nutrition,5.6,Chennai,Gpay
+H-1384,GORDON kELLY,Gordon Kelly,27,Male,A+,Obesity,Obesity,25-06-2022,Cigna,"? 20,626",Urgent,6,DEP106,Nutrition,5.6,Mumbai,Cash
+H-1385,nathaN Scott,Nathan Scott,39,Female,O-,Arthritis,Arthritis,06-03-2022,UnitedHealthcare,"? 30,248",Urgent,6,DEP105,Orthopedics,5.6,Chennai,Insurance
+H-1386,LiSA grEEn,Lisa Green,44,Male,A-,Obesity,Obesity,26-04-2024,Cigna,"? 17,942",Elective,6,DEP106,Nutrition,5.6,Kolkata,Gpay
+H-1387,amY CoMbS,Amy Combs,28,Female,A-,Arthritis,Arthritis,18-01-2022,Blue Cross,"? 10,388",Urgent,6,DEP105,Orthopedics,5.6,Kochi,Cash
+H-1388,KelLY sANfoRD,Kelly Sanford,21,Male,O+,Arthritis,Arthritis,09-03-2024,Cigna,"? 8,351",Urgent,6,DEP105,Orthopedics,5.6,Hyderabad,Insurance
+H-1389,mrs. jEssIcA BlAck md,Mrs. Jessica Black Md,84,Female,O+,Obesity,Obesity,05-12-2023,UnitedHealthcare,"? 11,351",Emergency,6,DEP106,Nutrition,5.6,Lucknow,Insurance
+H-1390,rObERT GoulD,Robert Gould,60,Female,O-,Cancer,Cancer,12-09-2020,Cigna,"? 17,126",Urgent,6,DEP104,Oncology,5.7,Chennai,Gpay
+H-1391,cHRISTiNe VArgaS,Christine Vargas,82,Female,O-,Cancer,Cancer,01-04-2022,Aetna,"? 19,097",Urgent,6,DEP104,Oncology,5.7,Mumbai,Cash
+H-1392,BARbara dIaZ,Barbara Diaz,41,Female,AB+,Cancer,Cancer,24-04-2024,UnitedHealthcare,"? 1,179",Urgent,6,DEP104,Oncology,5.7,Mumbai,Insurance
+H-1393,jOHn washIngtON,John Washington,49,Female,A+,Obesity,Obesity,15-07-2019,Medicare,"? 50,220",Emergency,6,DEP106,Nutrition,5.7,Lucknow,Gpay
+H-1394,DEVIn stEWaRt,Devin Stewart,19,Female,O+,Hypertension,Hypertension,04-08-2020,Aetna,"? 27,362",Urgent,6,DEP102,Cardiology,5.7,Delhi,Cash
+H-1395,JAMeS ROBeRTs,James Roberts,46,Female,A+,Diabetes,Diabetes,29-05-2023,Cigna,"? 30,630",Urgent,6,DEP101,Endocrinology,5.7,Chennai,Insurance
+H-1396,JaMes YATEs,James Yates,44,Male,O+,Obesity,Obesity,09-02-2024,Aetna,"? 25,312",Urgent,6,DEP106,Nutrition,5.7,Hyderabad,Cash
+H-1397,PeTEr nIcHOLs,Peter Nichols,78,Male,AB+,Arthritis,Arthritis,05-12-2022,Blue Cross,"? 13,365",Elective,6,DEP105,Orthopedics,5.7,Visakhapatnam,Gpay
+H-1398,karen pRice,Karen Price,68,Male,AB+,Arthritis,Arthritis,10-06-2022,Blue Cross,"? 7,744",Emergency,6,DEP105,Orthopedics,5.7,Nagpur,Insurance
+H-1399,chRisTOPHEr jONes,Christopher Jones,29,Female,A+,Diabetes,Diabetes,03-05-2024,Medicare,"? 9,473",Elective,6,DEP101,Endocrinology,5.7,Visakhapatnam,Insurance
+H-1400,LaRRY LeoNarD,Larry Leonard,84,Female,AB-,Asthma,Asthma,16-04-2021,Aetna,"? 44,453",Emergency,6,DEP103,Pulmonology,5.7,Lucknow,Gpay
+H-1401,MiChELle zHaNg,Michelle Zhang,40,Female,O+,Diabetes,Diabetes,31-07-2019,Blue Cross,"? 37,490",Emergency,6,DEP101,Endocrinology,5.7,Ahmedabad,Insurance
+H-1402,kriSTEn FlOrES,Kristen Flores,73,Male,O+,Arthritis,Arthritis,14-02-2021,Blue Cross,"? 48,437",Emergency,6,DEP105,Orthopedics,5.7,Pune,Insurance
+H-1403,MaTThEW bELl,Matthew Bell,41,Female,O+,Obesity,Obesity,21-07-2023,UnitedHealthcare,"? 10,804",Emergency,6,DEP106,Nutrition,5.7,Chennai,Cash
+H-1404,brADLeY MIraNdA,Bradley Miranda,34,Female,A+,Asthma,Asthma,14-12-2019,Blue Cross,"? 34,743",Emergency,6,DEP103,Pulmonology,5.7,Nagpur,Gpay
+H-1405,cHRIsToPheR mOORE,Christopher Moore,69,Male,B+,Asthma,Asthma,27-04-2020,Aetna,"? 47,222",Elective,6,DEP103,Pulmonology,5.7,Ahmedabad,Cash
+H-1406,dan PINEDA,Dan Pineda,53,Female,AB-,Hypertension,Hypertension,27-12-2022,UnitedHealthcare,"? 39,239",Emergency,6,DEP102,Cardiology,5.7,Ahmedabad,Insurance
+H-1407,maRIaH SmiTH,Mariah Smith,35,Male,B-,Obesity,Obesity,25-06-2019,Cigna,"? 37,626",Elective,6,DEP106,Nutrition,5.7,Hyderabad,Gpay
+H-1408,saBRINa cOoK,Sabrina Cook,30,Female,B-,Hypertension,Hypertension,02-10-2019,Cigna,"? 12,088",Urgent,6,DEP102,Cardiology,5.7,Delhi,Cash
+H-1409,MelIssA hOFfMAN,Melissa Hoffman,28,Female,O+,Asthma,Asthma,13-04-2023,Cigna,"? 8,266",Emergency,6,DEP103,Pulmonology,5.8,Pune,Insurance
+H-1410,Joseph MARtiN,Joseph Martin,73,Female,AB-,Hypertension,Hypertension,19-10-2021,Blue Cross,"? 14,480",Emergency,6,DEP102,Cardiology,5.8,Lucknow,Depit Card
+H-1411,meLissA SIms,Melissa Sims,45,Female,B+,Hypertension,Hypertension,01-09-2023,UnitedHealthcare,"? 5,362",Elective,6,DEP102,Cardiology,5.8,Jaipur,Insurance
+H-1412,SaraH evans,Sarah Evans,66,Female,A+,Asthma,Asthma,01-08-2020,Cigna,"? 8,351",Emergency,6,DEP103,Pulmonology,5.8,Chennai,Cash
+H-1413,mARIA ANDeRsON,Maria Anderson,73,Female,B-,Cancer,Cancer,16-02-2021,UnitedHealthcare,"? 33,303",Emergency,6,DEP104,Oncology,5.8,Kolkata,Insurance
+H-1414,MariA JOHnStON,Maria Johnston,36,Male,A-,Asthma,Asthma,02-01-2021,Cigna,"? 7,602",Emergency,6,DEP103,Pulmonology,5.8,Mumbai,Depit Card
+H-1415,JaMES COle,James Cole,34,Female,B-,Arthritis,Arthritis,05-09-2022,UnitedHealthcare,"? 16,954",Urgent,6,DEP105,Orthopedics,5.8,Mumbai,Cash
+H-1416,iSaiaH hOlT,Isaiah Holt,82,Male,O+,Asthma,Asthma,11-08-2021,Cigna,"? 5,364",Elective,6,DEP103,Pulmonology,5.8,Jaipur,Insurance
+H-1417,joSEPH gonzaLeS,Joseph Gonzales,65,Male,O+,Obesity,Obesity,25-01-2022,Cigna,"? 24,990",Elective,6,DEP106,Nutrition,5.8,Lucknow,Depit Card
+H-1418,JenNiFEr CAMaCho,Jennifer Camacho,82,Male,AB+,Arthritis,Arthritis,15-05-2020,Medicare,"? 29,513",Urgent,6,DEP105,Orthopedics,5.8,Chennai,Cash
+H-1419,HecTOR jonES,Hector Jones,85,Male,A+,Diabetes,Diabetes,03-07-2019,Aetna,"? 7,487",Elective,6,DEP101,Endocrinology,5.8,Chennai,Insurance
+H-1420,jEsSIcA jOnes Dds,Jessica Jones Dds,77,Male,AB-,Obesity,Obesity,15-10-2020,Aetna,"? 41,660",Elective,6,DEP106,Nutrition,5.8,Nagpur,Cash
+H-1421,IsaBeLlA martIn,Isabella Martin,81,Male,B-,Obesity,Obesity,30-01-2020,Medicare,"? 12,249",Elective,6,DEP106,Nutrition,5.8,Kochi,Depit Card
+H-1422,daNiEL pALMeR,Daniel Palmer,82,Male,A-,Arthritis,Arthritis,15-08-2019,Medicare,"? 25,034",Urgent,6,DEP105,Orthopedics,5.8,Jaipur,Insurance
+H-1423,sTEPhanIe BeNsoN,Stephanie Benson,42,Female,O-,Cancer,Cancer,26-10-2020,Blue Cross,"? 12,880",Emergency,6,DEP104,Oncology,5.8,Mumbai,Cash
+H-1424,AshleY WiLliamS,Ashley Williams,43,Female,B+,Obesity,Obesity,02-04-2024,UnitedHealthcare,"? 3,156",Urgent,6,DEP106,Nutrition,5.8,Chennai,Insurance
+H-1425,GReGOrY NguYEn,Gregory Nguyen,68,Male,A-,Diabetes,Diabetes,17-01-2024,Aetna,"? 45,709",Elective,6,DEP101,Endocrinology,5.8,Jaipur,Depit Card
+H-1426,joE SmItH,Joe Smith,76,Male,AB-,Obesity,Obesity,09-10-2023,UnitedHealthcare,"? 34,474",Urgent,6,DEP106,Nutrition,5.8,Kochi,Insurance
+H-1427,LIsa wATTS,Lisa Watts,79,Male,A-,Hypertension,Hypertension,05-03-2021,Aetna,"? 28,100",Emergency,6,DEP102,Cardiology,5.8,Nagpur,Insurance
+H-1428,alexAnDER GArcia,Alexander Garcia,66,Female,O+,Arthritis,Arthritis,03-11-2021,UnitedHealthcare,"? 39,320",Emergency,6,DEP105,Orthopedics,5.8,Ahmedabad,Cash
+H-1429,ElIzabETh PErKINs,Elizabeth Perkins,38,Male,AB+,Cancer,Cancer,07-11-2023,Aetna,"? 5,940",Urgent,6,DEP104,Oncology,5.9,Ahmedabad,Cash
+H-1430,LAuRA WELLS,Laura Wells,74,Female,B+,Asthma,Asthma,06-04-2021,Blue Cross,"? 9,444",Emergency,6,DEP103,Pulmonology,5.9,Chennai,Depit Card
+H-1431,robErT mCcORmICk,Robert Mccormick,61,Male,A+,Cancer,Cancer,08-07-2020,Aetna,"? 27,976",Urgent,6,DEP104,Oncology,5.9,Nagpur,Insurance
+H-1432,MICHAEL yu,Michael Yu,44,Female,B+,Diabetes,Diabetes,02-08-2021,Cigna,"? 7,316",Urgent,6,DEP101,Endocrinology,5.9,Mumbai,Insurance
+H-1433,jacOB GRaHam,Jacob Graham,74,Female,B-,Cancer,Cancer,10-03-2021,Cigna,"? 25,910",Urgent,6,DEP104,Oncology,5.9,Pune,Depit Card
+H-1434,aNdrea kenNedy,Andrea Kennedy,50,Male,A+,Diabetes,Diabetes,11-03-2024,Aetna,"? 31,391",Elective,6,DEP101,Endocrinology,5.9,Lucknow,Cash
+H-1435,StacEY aNderson,Stacey Anderson,48,Female,A+,Asthma,Asthma,11-08-2020,Blue Cross,"? 38,507",Urgent,6,DEP103,Pulmonology,5.9,Nagpur,Insurance
+H-1436,jasOn mArsh,Jason Marsh,81,Male,B-,Asthma,Asthma,05-10-2021,Aetna,"? 38,579",Emergency,6,DEP103,Pulmonology,5.9,Chennai,Depit Card
+H-1437,tiFfAnY FErguSON,Tiffany Ferguson,74,Male,O+,Obesity,Obesity,02-08-2022,Medicare,"? 26,608",Urgent,6,DEP106,Nutrition,5.9,Jaipur,Cash
+H-1438,mark hErnaNdEZ,Mark Hernandez,19,Male,B-,Obesity,Obesity,12-04-2023,Cigna,"? 18,755",Urgent,6,DEP106,Nutrition,5.9,Jaipur,Insurance
+H-1439,KEITH HenRy,Keith Henry,74,Female,B+,Diabetes,Diabetes,06-07-2019,Medicare,"? 8,351",Emergency,6,DEP101,Endocrinology,5.9,Jaipur,Insurance
+H-1440,mIChelLE WRIghT,Michelle Wright,64,Female,B+,Cancer,Cancer,03-08-2020,Medicare,"? 18,878",Emergency,6,DEP104,Oncology,5.9,Nagpur,Depit Card
+H-1441,TRoY DaVIS,Troy Davis,60,Male,AB-,Diabetes,Diabetes,30-03-2022,UnitedHealthcare,"? 32,434",Urgent,6,DEP101,Endocrinology,5.9,Mumbai,Cash
+H-1442,MiSty burton,Misty Burton,80,Male,A+,Arthritis,Arthritis,19-08-2021,UnitedHealthcare,"? 8,351",Urgent,6,DEP105,Orthopedics,5.9,Hyderabad,Insurance
+H-1443,RObERt rObINsOn,Robert Robinson,64,Male,A+,Obesity,Obesity,03-02-2020,Blue Cross,"? 4,822",Elective,6,DEP106,Nutrition,5.9,Ahmedabad,Depit Card
+H-1444,CHrISTiNA caldeROn,Christina Calderon,69,Male,A-,Obesity,Obesity,25-05-2023,Cigna,"? 45,858",Emergency,6,DEP106,Nutrition,5.9,Lucknow,Cash
+H-1445,JOhN GRahAm,John Graham,28,Male,B+,Obesity,Obesity,04-10-2023,UnitedHealthcare,"? 15,229",Emergency,6,DEP106,Nutrition,5.9,Visakhapatnam,Insurance
+H-1446,mICHAEl PARkER,Michael Parker,46,Female,AB+,Arthritis,Arthritis,14-01-2020,UnitedHealthcare,"? 11,968",Urgent,6,DEP105,Orthopedics,5.9,Bangalore,Cash
+H-1447,WIlliAm EVANs,William Evans,42,Male,O-,Hypertension,Hypertension,28-02-2023,UnitedHealthcare,"? 41,705",Emergency,6,DEP102,Cardiology,5.9,Ahmedabad,Depit Card
+H-1448,vAlEriE hodgES,Valerie Hodges,55,Female,O+,Diabetes,Diabetes,13-11-2019,UnitedHealthcare,"? 2,360",Elective,6,DEP101,Endocrinology,6.0,Chennai,Insurance
+H-1449,brENda BecK,Brenda Beck,43,Male,O+,Cancer,Cancer,05-05-2023,Aetna,"? 5,456",Emergency,6,DEP104,Oncology,6.0,Mumbai,Insurance
+H-1450,CHrISTIne DAvIs,Christine Davis,81,Female,A-,Obesity,Obesity,29-04-2021,Medicare,"? 39,471",Urgent,6,DEP106,Nutrition,6.0,Kolkata,Depit Card
+H-1451,keVIN dANiEl,Kevin Daniel,79,Female,AB-,Cancer,Cancer,06-04-2021,Cigna,"? 39,305",Emergency,6,DEP104,Oncology,6.0,Nagpur,Insurance
+H-1452,BRIttney WagNER,Brittney Wagner,80,Female,A-,Obesity,Obesity,12-02-2021,Blue Cross,"? 5,502",Emergency,6,DEP106,Nutrition,6.0,Jaipur,Insurance
+H-1453,criStIaN bUChANAn,Cristian Buchanan,36,Female,O+,Arthritis,Arthritis,04-05-2021,Medicare,"? 3,522",Elective,6,DEP105,Orthopedics,6.0,Chennai,Cash
+H-1454,MiCHAEl bRady,Michael Brady,80,Female,O-,Arthritis,Arthritis,29-12-2020,Blue Cross,"? 20,613",Emergency,6,DEP105,Orthopedics,6.0,Lucknow,Depit Card
+H-1455,jOrdan LEON,Jordan Leon,34,Female,B+,Cancer,Cancer,17-11-2019,UnitedHealthcare,"? 13,521",Elective,6,DEP104,Oncology,6.0,Visakhapatnam,Cash
+H-1456,kAteLyn cunNINGHam,Katelyn Cunningham,64,Female,O-,Diabetes,Diabetes,02-12-2022,Blue Cross,"? 37,172",Elective,6,DEP101,Endocrinology,6.0,Ahmedabad,Insurance
+H-1457,KRyStal mENDoZA,Krystal Mendoza,21,Male,AB+,Diabetes,Diabetes,05-03-2023,Aetna,"? 8,696",Emergency,6,DEP101,Endocrinology,6.0,Chennai,Depit Card
+H-1458,aLEx RodriGUEz,Alex Rodriguez,41,Male,B+,Asthma,Asthma,30-05-2022,Medicare,"? 31,754",Urgent,6,DEP103,Pulmonology,6.0,Mumbai,Cash
+H-1459,GeoFfrEy barkER,Geoffrey Barker,24,Male,B+,Hypertension,Hypertension,22-01-2021,UnitedHealthcare,"? 30,190",Urgent,6,DEP102,Cardiology,6.0,Visakhapatnam,Insurance
+H-1460,ALEc miTCheLl,Alec Mitchell,72,Female,A-,Arthritis,Arthritis,29-12-2020,Medicare,"? 31,325",Elective,6,DEP100,General Medicine,6.0,Lucknow,Credit Card
+H-1461,JasOn joRDaN,Jason Jordan,68,Female,B-,Hypertension,Hypertension,28-12-2022,Medicare,"? 26,322",Urgent,6,DEP102,Cardiology,6.0,Chennai,Insurance
+H-1462,philiP ReYES,Philip Reyes,27,Female,AB-,Asthma,Asthma,08-11-2023,Medicare,"? 13,519",Elective,6,DEP103,Pulmonology,6.0,Kochi,Cash
+H-1463,AarOn BradsHaw,Aaron Bradshaw,22,Male,O-,Cancer,Cancer,14-07-2020,Cigna,"? 2,887",Emergency,6,DEP104,Oncology,6.0,Delhi,Insurance
+H-1464,ERicA fOrd,Erica Ford,70,Female,AB+,Asthma,Asthma,02-07-2022,UnitedHealthcare,"? 1,407",Elective,6,DEP103,Pulmonology,6.0,Ahmedabad,Credit Card
+H-1465,dr. KAtIe baRReTt DVM,Dr. Katie Barrett Dvm,38,Female,B+,Obesity,Obesity,03-02-2024,UnitedHealthcare,"? 9,064",Elective,6,DEP106,Nutrition,6.0,Mumbai,Cash
+H-1466,Jacob youNG,Jacob Young,81,Male,A-,Obesity,Obesity,18-11-2022,Cigna,"? 38,502",Elective,6,DEP106,Nutrition,6.0,Kochi,Insurance
+H-1467,amY RAMos,Amy Ramos,59,Female,AB-,Cancer,Cancer,24-07-2020,Medicare,"? 20,599",Urgent,6,DEP104,Oncology,6.0,Kochi,Credit Card
+H-1468,PaTricK moRAlES,Patrick Morales,33,Male,B+,Diabetes,Diabetes,04-01-2020,Cigna,"? 7,805",Emergency,6,DEP101,Endocrinology,6.1,Kochi,Cash
+H-1469,sOpHIA cONwAY,Sophia Conway,37,Female,O-,Arthritis,Arthritis,13-09-2020,Blue Cross,"? 16,828",Urgent,6,DEP105,Orthopedics,6.1,Mumbai,Insurance
+H-1470,jamES mOORE,James Moore,51,Female,B-,Obesity,Obesity,07-01-2020,Aetna,"? 16,132",Emergency,6,DEP106,Nutrition,6.1,Chennai,Cash
+H-1471,ChRisTOPHeR cOChRan,Christopher Cochran,32,Female,AB-,Cancer,Cancer,18-11-2019,UnitedHealthcare,"? 28,579",Urgent,6,DEP104,Oncology,6.1,Pune,Credit Card
+H-1472,RObeRT Carter,Robert Carter,33,Female,B-,Obesity,Obesity,03-08-2022,UnitedHealthcare,"? 48,485",Emergency,6,DEP106,Nutrition,6.1,Pune,Insurance
+H-1473,moRgAn NGUYEn,Morgan Nguyen,58,Female,A+,Obesity,Obesity,05-12-2020,Aetna,"? 35,819",Emergency,6,DEP106,Nutrition,6.1,Kolkata,Cash
+H-1474,natHAn MONToYA,Nathan Montoya,86,Female,A+,Hypertension,Hypertension,01-01-2021,UnitedHealthcare,"? 8,377",Elective,6,DEP102,Cardiology,6.1,Nagpur,Insurance
+H-1475,jOE Berry PhD,Joe Berry Phd,47,Male,B-,Hypertension,Hypertension,21-01-2020,UnitedHealthcare,"? 37,030",Elective,6,DEP102,Cardiology,6.1,Bangalore,Credit Card
+H-1476,daNIeL oRtiz,Daniel Ortiz,76,Female,A-,Obesity,Obesity,17-09-2022,Cigna,"? 7,090",Elective,6,DEP106,Nutrition,6.1,Chennai,Insurance
+H-1477,mATthEw cLaRk,Matthew Clark,75,Male,AB-,Diabetes,Diabetes,05-12-2022,Medicare,"? 48,315",Urgent,6,DEP101,Endocrinology,6.1,Ahmedabad,Insurance
+H-1478,JAcQuELINE hArDY,Jacqueline Hardy,49,Male,AB-,Asthma,Asthma,11-04-2024,Cigna,"? 15,652",Elective,6,DEP103,Pulmonology,6.1,Visakhapatnam,Cash
+H-1479,eMiLY JoSEPh,Emily Joseph,55,Male,B+,Arthritis,Arthritis,15-11-2020,Medicare,"? 22,348",Emergency,6,DEP105,Orthopedics,6.1,Delhi,Cash
+H-1480,sarAH HiCKs,Sarah Hicks,36,Male,O-,Obesity,Obesity,08-09-2023,UnitedHealthcare,"? 21,877",Elective,6,DEP106,Nutrition,6.1,Mumbai,Credit Card
+H-1481,bRiANa rOsS,Briana Ross,22,Male,O-,Diabetes,Diabetes,18-10-2020,UnitedHealthcare,"? 48,934",Urgent,6,DEP101,Endocrinology,6.1,Mumbai,Insurance
+H-1482,maRY mcculLOUgH,Mary Mccullough,23,Male,A+,Obesity,Obesity,21-09-2022,Medicare,"? 28,541",Elective,6,DEP106,Nutrition,6.1,Lucknow,Insurance
+H-1483,bRIAn OSborNe,Brian Osborne,83,Male,O+,Arthritis,Arthritis,27-02-2020,Cigna,"? 46,593",Urgent,6,DEP105,Orthopedics,6.1,Kochi,Credit Card
+H-1484,suSAn WALTerS,Susan Walters,84,Female,A-,Obesity,Obesity,03-07-2020,Cigna,"? 5,229",Elective,6,DEP106,Nutrition,6.1,Ahmedabad,Cash
+H-1485,CATHerine HaRVEY,Catherine Harvey,62,Female,AB+,Asthma,Asthma,16-02-2024,UnitedHealthcare,"? 18,025",Elective,6,DEP103,Pulmonology,6.1,Mumbai,Insurance
+H-1486,cORY PIERCe,Cory Pierce,54,Male,AB-,Obesity,Obesity,04-06-2023,Medicare,"? 9,992",Elective,6,DEP106,Nutrition,6.1,Mumbai,Gpay
+H-1487,jeSus jORdan,Jesus Jordan,38,Male,AB+,Hypertension,Hypertension,23-05-2021,Blue Cross,"? 23,778",Urgent,6,DEP102,Cardiology,6.2,Visakhapatnam,Cash
+H-1488,ANn dUNCAN,Ann Duncan,33,Male,AB-,Arthritis,Arthritis,29-10-2021,Aetna,"? 35,080",Urgent,6,DEP105,Orthopedics,6.2,Pune,Insurance
+H-1489,Sarah pOrTEr,Sarah Porter,53,Female,A-,Obesity,Obesity,25-04-2024,Medicare,"? 43,098",Emergency,6,DEP106,Nutrition,6.2,Visakhapatnam,Insurance
+H-1490,jACquEliNE DeAN,Jacqueline Dean,24,Male,O+,Obesity,Obesity,15-12-2023,Blue Cross,"? 37,521",Elective,6,DEP106,Nutrition,6.2,Jaipur,Gpay
+H-1491,AnNE lam,Anne Lam,61,Female,B-,Cancer,Cancer,12-07-2020,Aetna,"? 28,560",Elective,6,DEP104,Oncology,6.2,Chennai,Cash
+H-1492,jEnnifeR GomEz,Jennifer Gomez,69,Male,AB-,Asthma,Asthma,05-03-2020,Medicare,"? 6,035",Urgent,6,DEP103,Pulmonology,6.2,Lucknow,Insurance
+H-1493,daVId CuRTIs,David Curtis,70,Female,O-,Arthritis,Arthritis,07-06-2021,Cigna,"? 11,951",Emergency,6,DEP105,Orthopedics,6.2,Chennai,Gpay
+H-1494,joSHUa JOHnsON,Joshua Johnson,49,Female,A+,Obesity,Obesity,29-06-2021,UnitedHealthcare,"? 17,354",Emergency,6,DEP106,Nutrition,6.2,Visakhapatnam,Cash
+H-1495,jEReMy bOwen,Jeremy Bowen,19,Male,O+,Hypertension,Hypertension,09-11-2019,Aetna,"? 42,157",Elective,6,DEP102,Cardiology,6.2,Lucknow,Insurance
+H-1496,denNIs cLarkE,Dennis Clarke,33,Female,A+,Asthma,Asthma,10-09-2019,Blue Cross,"? 18,903",Elective,6,DEP103,Pulmonology,6.2,Chennai,Cash
+H-1497,jeNNiFER spEnCe,Jennifer Spence,48,Male,AB+,Arthritis,Arthritis,13-02-2021,Blue Cross,"? 26,130",Elective,6,DEP105,Orthopedics,6.2,Ahmedabad,Gpay
+H-1498,biLlY fITZGERALd,Billy Fitzgerald,33,Male,AB+,Asthma,Asthma,01-09-2022,Aetna,"? 45,539",Urgent,6,DEP103,Pulmonology,6.2,Nagpur,Insurance
+H-1499,krisTEN JamES,Kristen James,72,Male,AB-,Obesity,Obesity,17-11-2023,Medicare,"? 25,901",Elective,6,DEP106,Nutrition,6.2,Kochi,Insurance
+H-1500,cAiTLIN bEndEr,Caitlin Bender,75,Female,AB-,Asthma,Asthma,29-04-2020,Cigna,"? 8,351",Emergency,6,DEP103,Pulmonology,6.2,Hyderabad,Gpay
